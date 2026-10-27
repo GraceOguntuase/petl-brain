@@ -80,9 +80,9 @@ Creator load: Zack 3 (PETL132, 133, 139, two of them one shoot day), Rod 2, Kels
 - **Truly new:** 11.
 - **BOF:** 25 of 35 counting MOF/BOF, 19 strict BOF.
 
-## BF banner pack (editor-only, outside the 35)
+## BF banner pack (one brief, editor-only)
 
-The cheapest Black Friday stock is the winners themselves with a persistent [BF OFFER] banner (gifting-and-q4-creative.md: "do not reinvent for the sale"). Add banner versions of PETL60, Sean_911 H4 / PETL65, PETL48 V2, PETL29 H4 and Clair. One open question for Grace: a banner version is a new upload, so do its bodies keep their old price lines as they are, or get the new-ad trim? These are edits, not new concepts. Grace decides whether they count against the deal.
+One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF OFFER]" banner on the winning hook version only of each top ad. The editor re-edits price lines to current pricing. Winners: PETL60 V1, PETL65 / Sean_911 H4, PETL48 V2, PETL29 H4, PETL61 V4 and Clair (remove PETL15). That makes the batch 36 unless one concept drops. In Notion as "R9 · BF Banner Pack".
 
 ## Compliance and claim notes (fix before briefing)
 
@@ -112,3 +112,6 @@ The cheapest Black Friday stock is the winners themselves with a persistent [BF 
 ## Review gates
 - Grounding review: grounded on round 2 (round 1 bounced on PETL60's banned script lines, the PETL145 stack, missing banners on winners, offer-honesty conditions, two wrong numbers and the Christmas and multiple-units gates).
 - Voice review: runs when the briefs are drafted. No final copy is written yet.
+
+## Notion
+- 31 ideas created in the Ideas Library on 2026-10-27 (R9 prefix, Status To Brief, Brand PETL). Not duplicated, already in the library: Grandma's First Snap, Car Unboxing (titled PARKED), the 5-Pack Breakdown, the BF offer letter (titled PARKED) and Price Slash.
