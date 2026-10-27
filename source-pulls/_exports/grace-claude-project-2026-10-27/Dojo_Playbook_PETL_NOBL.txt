@@ -1,0 +1,119 @@
+Dojo Playbook: Applying the Insights to PETL & NOBL
+Dojo Playbook: Applying the Insights to PETL
+& NOBL
+Oct 25, 2026 ·
+@Grace
+The core rule from the dojo: copy what's already working as closely as you can, and let the
+data pick the formats. Everything below came out of the Icy Bear thread (Oct 2026). It's
+applied here to PETL (the MagSafe battery pack) and NOBL T ravel (the all-in-one carry-
+on).
+1. Swipe what's working, and swipe it closely
+Rip the winning ad almost shot for shot. Change only the product, the avatar and the
+reason why . Search in this order: your own niche, then adjacent niches, then brands selling
+to the same ICP even if the product is different.
+Search PETL NOBL
+Own niche Power banks, MagSafe accessories Carry-ons, hard-shell luggage
+Adjacent
+niche
+Phone cases, chargers, tech gifts,
+desk setup and "what's in my bag"
+creators
+P acking cubes, travel pillows,
+backpacks, travel tech
+Same ICP Commuters, students, festival-goers Frequent flyers: travel apps, credit
+cards, airport lounges
+2. Formats vs concepts
+A format is the vehicle. A concept is what goes inside it. Most of what we call formats are
+really concepts, so we miss whole vehicles.
+Formats: skeletons, Pixar-style stories, cartoon characters, street interviews, skits,
+follow-my-journey , whitelisted influencer , native pages.
+Concepts/structures: 3 reasons why , testimonial, transformation timeline, us vs them,
+myth-bust.
+Keep a running list of formats that are scaling across the market (ask Iason for his). Each
+batch, check which ones PETL and NOBL haven't tried yet.
+Page 1 of 4
+Dojo Playbook: Applying the Insights to PETL & NOBL
+3. Let the data make the case to the client
+When a client pushes a format that isn't working, answer with numbers, not opinions.
+1. Pull the last 3 months and split spend and ROAS by format and by who's on screen.
+2. Answer two questions:
+a. Outside our usual formats, where are we most likely to find a winner?
+b. For the format the client wants, is there a pattern in why it's f ailed?
+3. T ake a plan built on that to the client.
+4. If they still insist, negotiate it down to the smallest share of the batch. Revisit every 3
+months.
+NOBL: it's a newer brand and retention matters, so start this habit now . A monthly "here's
+what the data says" slide builds trust f ast.
+4. Mine your own winners for the pattern
+The top 10 ads usually tell one story . Find it, then find a brand doing that same pattern
+better and rip them.
+At Icy Bear , the top 10 shared four things:
+An authority f ace (founder or influencer).
+A dream-outcome payoff:
+"people think I've had work done.
+"
+An on-camera routine demo.
+Scarcity .
+Only the top 10 matter for this. Mid and low performers add noise, not direction.
+5. Real customers on camera
+Book a quick call with a real reviewer and get their story . Write a script from their own
+words, then have them film it sitting and talking to camera. T -Man says this has worked
+really well for him.
+PETL: reviewers with a specific moment, like the phone dying at a gig or the battery
+saving them at an airport.
+NOBL: reviewers with a story , like a bag surviving a dozen flights, or never checking a
+bag again.
+Page 2 of 4
+Dojo Playbook: Applying the Insights to PETL & NOBL
+6. Follow-my-journey check-ins
+These are episodic check-ins with a personal reason behind them, like "Here's where I
+started, here's where I am now , check back next month.
+" Keep them to real use, not
+invented stories, so they stay inside Meta's rules.
+NOBL (best fit): "T rip 1 vs trip 6 with the same carry-on.
+" Or a countdown:
+2 weeks in one bag.
+"
+PETL: " A week of never hitting 0%,
+" filmed as a daily battery check-in.
+"P acking for
+7. Make the mechanism visceral
+T urn the feature into something people feel instantly . At Icy Bear that was "peroxide =
+bleach.
+" Find the image that makes the alternative feel bad.
+PETL: the panic at 5% battery . Or a clean magnetic snap vs a bag full of tangled cables.
+NOBL: a broken zip or a cracked shell at baggage claim. Or paying £60 for a checked
+bag vs fitting everything in a carry-on.
+8. Authority and trust beat anonymous creators
+If a founder or a f amous f ace is what's winning, the audience wants someone it trusts.
+Swap in other authority figures rather than more generic UGC. The "expert rates X"
+format travels well between categories.
+PETL: tech reviewers, or "phone repair guy rates power banks.
+"
+NOBL: flight attendants, pilots, frequent-flyer creators. For example,
+reacts to carry-ons.
+"
+"flight attendant
+9. Check the funnel before blaming the creative
+If T OF ads aren't converting, check where they land before writing them off .
+Do T OF and BOF ads go to the same page? A page built for buyers can lose cold traffic.
+Is tracking working on the T OF landing page?
+Is the funnel built around one f ace (celebrity , founder)? That can drag down every non-
+founder ad.
+10. Don't force AI formats
+AI formats (skeletons, cartoons, Pixar stories) are scaling hard for some brands, but not
+every audience responds. T est one per batch at most, and rip a proven one closely .
+Page 3 of 4
+Dojo Playbook: Applying the Insights to PETL & NOBL
+PETL: a younger tech audience, so probably more open to AI formats.
+NOBL: depends on the core buyer . Check the age split before testing.
+Batch checklist
+T op 10 ads from the last 3 months reviewed for the shared pattern
+At least one close rip from the brand's own niche
+At least one rip from an adjacent niche or a same-ICP brand
+One format the brand hasn't tried yet
+One authority-led concept (expert, reviewer , influencer)
+One real-customer or follow-my-journey concept
+Max one AI format
+Landing page and tracking checked for T OF ads
+Page 4 of 4
