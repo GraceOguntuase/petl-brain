@@ -25,4 +25,4 @@ Built on purpose as a small working brain: the core docs now, more on request. `
 
 - **Skills** live in `.claude/skills/` (scriptwriting, hooks, headlines, iterations, ad-account analysis, AI ad generation, the routines, and more). They load when this folder is opened in Claude Code.
 - **The method** is mounted read-only at `parker-system/`, a pinned release (v22) of the public `parker-brain` repo, including the exact prompts that built every doc.
-- **Saving:** this folder is backed up to Grace's private GitHub repo (`GraceOguntuase/petl-brain`) once it's set up.
+- **Saving:** this folder is backed up to Grace's private GitHub repo (`GraceOguntuase/petl-brain`). Save with `git -c credential.helper= -c credential.helper=osxkeychain push grace main`.

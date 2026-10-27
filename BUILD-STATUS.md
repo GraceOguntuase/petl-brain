@@ -3,7 +3,7 @@
 **Brand:** PETL (goPETL, gopetl.com)
 **Built:** 2026-10-27, lean MVP (Grace's call), without Parker MCP
 **Method version:** parker-brain v22
-**Right now:** core docs done. Next: save to Grace's GitHub (`GraceOguntuase/petl-brain`).
+**Right now:** core docs done and saved to GitHub (`GraceOguntuase/petl-brain`, 2026-10-27).
 
 ## Built
 
@@ -20,7 +20,7 @@
 | brand-lens.md, running-notes/ (7 files) | done |
 | source-pulls/ (internal digest, external research, Grace's Claude project export) | done |
 | CLAUDE.md, README | done |
-| Save to GitHub | pending (Grace makes the empty repo and token) |
+| Save to GitHub | done, `GraceOguntuase/petl-brain` (private) |
 | Routines | not armed (ask Grace first; they spend credits) |
 
 Everything else is listed in `running-notes/refresh-schedule.md` as "not built yet, build on request."
