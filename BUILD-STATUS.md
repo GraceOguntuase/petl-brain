@@ -21,7 +21,7 @@
 | source-pulls/ (internal digest, external research, Grace's Claude project export) | done |
 | CLAUDE.md, README | done |
 | Save to GitHub | done, `GraceOguntuase/petl-brain` (private) |
-| Routines | not armed (ask Grace first; they spend credits) |
+| Routines | weekly refresh armed (Tue 07:00, local scheduled task); others not armed |
 
 Everything else is listed in `running-notes/refresh-schedule.md` as "not built yet, build on request."
 
