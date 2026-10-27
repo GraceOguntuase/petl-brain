@@ -26,7 +26,7 @@ Iterations are tagged **[ITER]**. Swipe rips are tagged **[RIP: brand]**. Transl
 | Code | Concept | Funnel | Source | First pick / backup |
 |---|---|---|---|---|
 | PETL128 | **Stacked colors offer.** Creator holds a stack of 5+ PETL colors and talks through [BF OFFER]. Hooks: H1 the stack. H2 a 2-second ASMR montage of different colors snapping onto an iPhone, stacked before H1. H3 and H4 open | BOF | [RIP: Dr. Squatch soap stack] | Aimee Swanson (has 5–6 PETLs) / the client's own creator who has 5+ colors (ask Rakesh) |
-| PETL129 | **"Did anyone else order PETL last week, then see the Black Friday deal?"** A yapper. She ordered more for her family and lists what you get (real claims only) | BOF | [RIP: TAO Clean yapper] | Kelsea Lopez / Amy Griffin. Only honest if [BF OFFER] beats the standing up-to-30% bundle ladder, and "I ordered" has to be true for whoever says it. Creators got product free, so reword to "if you ordered last week…" unless she really bought. Paid-partnership disclosure |
+| PETL129 | **"Did anyone else order PETL last week, then see the Black Friday deal?"** A yapper. She ordered more for her family and lists what you get (real claims only) | BOF | [RIP: TAO Clean yapper] | Kelsea Lopez / Jenni Bowman (or Aimee Swanson). Only honest if [BF OFFER] beats the standing up-to-30% bundle ladder, and "I ordered" has to be true for whoever says it. Creators got product free, so reword to "if you ordered last week…" unless she really bought. Paid-partnership disclosure |
 | PETL130 | **"PETL is still on sale. I just checked."** An excited, emotive creator repeating the deal, then benefits, then "make sure it's from gopetl.com" | BOF | [RIP: Resilia "still on sale"] | Nicole Brown / Rodger Harris. Pick on how expressive they are on camera. Only if [BF OFFER] beats the standing ladder |
 | PETL131 | **Skit: two of him.** One version keeps fishing for the right cord in a pouch; the other talks him into PETL, objection by objection | TOF/MOF, BF hook variant | [RIP: Feel Reformed matcha skit] | Rod Kynaston / Matt Ulman (Grace: male creators sell skits) |
 | PETL132 | **Apple Store test.** He's "here to buy the iPhone Duo," but first checks which power bank actually fits it: one big-name pack versus PETL, filmed in the store. Apple branding in frame is fine (Grace, 2026-10-27) | MOF/BOF | Grace's idea + [RIP: Feel Reformed KFC us vs them] | Zack Sammons (has an iPhone Duo) / Rod Kynaston. Film the same day as PETL139 |
@@ -35,7 +35,7 @@ Iterations are tagged **[ITER]**. Swipe rips are tagged **[RIP: brand]**. Transl
 | PETL135 | **Gifting reaction, he's gifted.** The same structure flipped: his wife gives it to him, and he reacts on screen | TOF/MOF gifting | [RIP: Soleil] | Allison Nelson's husband / Bo Richardson (with his wife, flipped). Not Rod: he's the face of PETL99 "My Daughter Got Me This" (in internal review, not launched), a near-identical gift story |
 | PETL136 | **The 65+ demo, three hooks as variations:** "Over 65 and not a gadget person?", "Grandma always has a charger.", and the "Is PETL legit?" quote card (#GP6117) | TOF | Hooks set, 2026-10-27 (already written and reviewed) | Kelsea Lopez's mother if 60+ / a sourced 60+ woman |
 | PETL137 | **Grandma's First Snap,** real reaction from a 70+ grandparent | TOF gifting | Ideas Library, To Brief | Abraham Gardner + grandparent / Kelsea's mother |
-| PETL138 | **Car unboxing, how it works,** with an older woman: she opens the parcel in the parked car and shows how it works | TOF | PARKED; Rakesh asked twice | Jenni Bowman / Amy Griffin (Grace, 2026-10-27) |
+| PETL138 | **Car unboxing, how it works,** with an older woman: she opens the parcel in the parked car and shows how it works | TOF | PARKED; Rakesh asked twice | Jenni Bowman / Aimee Swanson (Grace, 2026-10-27) |
 | PETL139 | **Tech store aisle us vs them.** In a tech store's power bank section he picks up the household names (Anker, Belkin, Mophie), says what each lacks (concede Anker's capacity), then pulls out PETL: iPhone, Watch, AirPods from one disc | MOF/BOF | [RIP: the chocolate-bar store-aisle ad] | Zack Sammons / Rod Kynaston. Same shoot day as PETL132. (Replaces the Christmas 5-pack haul, which is parked) |
 
 Creator load: Zack 3 (PETL132, 133, 139, two of them one shoot day), Rod 2, Kelsea's household 2, and Aimee, Bo, Allison, Nicole and Abraham 1 each. That's 8 creators. Jenni Bowman has none now and is free as a backup.
@@ -117,6 +117,7 @@ One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF
 - 31 ideas created in the Ideas Library on 2026-10-27 (R8 prefix, Status To Brief, Brand PETL). Not duplicated, already in the library: Grandma's First Snap, Car Unboxing (titled PARKED), the 5-Pack Breakdown, the BF offer letter (titled PARKED) and Price Slash.
 
 ## Changes 2026-10-27 (Grace)
-- Car unboxing goes to an older woman (Jenni Bowman, backup Amy Griffin).
+- Car unboxing goes to an older woman (Jenni Bowman, backup Aimee Swanson).
+- Amy Griffin comes off both backup slots (see the casting rule in production/creator-roster.md).
 - Carousel replaced by the Us vs Them split. The three-reasons static and corporate gifting are parked in Notion with reasons.
 - The Amateur / Intermediate / Expert static is in, using the Nero tweet-card reference. "Grandma always has a charger." static added.

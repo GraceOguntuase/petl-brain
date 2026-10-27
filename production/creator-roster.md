@@ -48,7 +48,7 @@ privacy: No home addresses, phone numbers or personal emails. Location is state 
 | 15 | Jenni Bowman | https://jennibowman.my.canva.site/ | 46 (45-53) | F | US, UT | Kids, pets; husband away "a few weeks" from Oct 9 | Car, kids, pets (DB) | Orig + 2 Plus, req Oct 13 | PETL122 + PETL127 assigned; footage uploaded Oct 22, in editing | Won't say "f-ing" (OK'd "freaking"). Solo-only for now |
 | 16 | Allison Nelson (Weissinger) | https://allisonweissingerportfolio.my.canva.site/ugc-portfolio | 25-34 (DB); pitched as 30s-40s | F | US, NY | Husband only, no kids | Not recorded | Orig + 2 Plus, req Oct 13 | None assigned | Free capacity. Ships under "Weissinger" |
 | 17 | Nicole G Brown | https://ngoodsonbrown.com/ | 35-44 or 45-53 (two DB records) | F | US, MI | Kids only, husband busy | Not recorded | Orig + 2 Plus, req Oct 15 | None assigned | Free capacity. Duplicate DB records |
-| 18 | Amy Griffin | https://amyeverydayugc.my.canva.site/ (Oct 8) / https://www.backstage.com/ugc/amy-griffin-2/?refer=AM (Oct 6) | 31 | F | US, ID | Husband (on camera), kids | Podcast setup, car (DB) | Orig + 2 Plus, req Oct 16 | PETL96 (stated); uploaded Oct 22, in editing | Grace: use Amy for any couple brief |
+| 18 | Amy Griffin | https://amyeverydayugc.my.canva.site/ (Oct 8) / https://www.backstage.com/ugc/amy-griffin-2/?refer=AM (Oct 6) | 31 | F | US, ID | Husband (on camera), kids | Podcast setup, car (DB) | Orig + 2 Plus, req Oct 16 | PETL96 (stated); uploaded Oct 22, in editing | **Lead with her husband.** Amy is weak on camera, her husband is strong. No script reads or yappers to Amy (Grace, 2026-10-27) |
 
 Pending, no product yet: **Sunnie B**, https://www.backstage.com/ugc/sunnie-b/?utm_source=chatgpt.com, female, has an iPhone Duo, "more reasonable rate." Selected for PETL94 on Oct 16, then the brief went to Zack; Grace said "I'll look for another brief for Sunnie." Agreement not sent *(stated · [S10], [S11], Oct 16)*. Creator Database page: https://app.notion.com/p/3fbdf9f700e581d387a5d4b7105c3a77.
 
@@ -167,6 +167,7 @@ Pending, no product yet: **Sunnie B**, https://www.backstage.com/ugc/sunnie-b/?u
 
 ### 18. Amy Griffin
 - **Who:** Female, 31, US (ID). Asset checklist: podcast setup, kids, car, husband comfortable on camera *(verified · Notion https://app.notion.com/p/3f2df9f700e58176a406f994de43beb6)*. Grace picked her first in the Oct 6 shortlist *(stated · [S4])*.
+- **Casting rule (Grace, 2026-10-27):** Amy is a weak creator on camera, and her husband is a really strong one. Future concepts with this household should have him do most of the talking, with Amy in the background. Never give Amy a script-reading or yapper brief. Send those to Jenni Bowman, or Aimee Swanson if we're short on older women. None are planned for Batch 8.
 - **PETL work:** Grace: "Let's assign Amy Griffin for any briefs that require a couple for now" *(stated · [S8], Oct 12)*. PETL96 My Husband Thinks I Got Scammed *(stated · source pull)*. Uploaded Oct 22, editing Oct 23 *(verified · [S14], [S25])*.
 - **Best fit (inferred):** couple concepts, podcast-style talking head, busy-mum, car unboxing.
 
