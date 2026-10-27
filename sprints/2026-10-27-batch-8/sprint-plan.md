@@ -1,7 +1,7 @@
 ---
 doc: sprint-plan
 brand: PETL
-batch: 8 (Master Creative Database; the Ideas Library may call it "R9")
+batch: 8 (Master Creative Database; round R8 in the Ideas Library (confirmed by Grace, 2026-10-27))
 codes: PETL128 to PETL162
 generated_on: 2026-10-27
 version: 3.1 (BFCM rebuild with Grace's calls of 2026-10-27; supersedes earlier versions)
@@ -82,7 +82,7 @@ Creator load: Zack 3 (PETL132, 133, 139, two of them one shoot day), Rod 2, Kels
 
 ## BF banner pack (one brief, editor-only)
 
-One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF OFFER]" banner on the winning hook version only of each top ad. The editor re-edits price lines to current pricing. Winners: PETL60 V1, PETL65 / Sean_911 H4, PETL48 V2, PETL29 H4, PETL61 V4 and Clair (remove PETL15). That makes the batch 36 unless one concept drops. In Notion as "R9 · BF Banner Pack".
+One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF OFFER]" banner on the winning hook version only of each top ad. The editor re-edits price lines to current pricing. Winners: PETL60 V1, PETL65 / Sean_911 H4, PETL48 V2, PETL29 H4, PETL61 V4 and Clair (remove PETL15). That makes the batch 36 unless one concept drops. In Notion as "R8 · BF Banner Pack".
 
 ## Compliance and claim notes (fix before briefing)
 
@@ -114,4 +114,4 @@ One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF
 - Voice review: runs when the briefs are drafted. No final copy is written yet.
 
 ## Notion
-- 31 ideas created in the Ideas Library on 2026-10-27 (R9 prefix, Status To Brief, Brand PETL). Not duplicated, already in the library: Grandma's First Snap, Car Unboxing (titled PARKED), the 5-Pack Breakdown, the BF offer letter (titled PARKED) and Price Slash.
+- 31 ideas created in the Ideas Library on 2026-10-27 (R8 prefix, Status To Brief, Brand PETL). Not duplicated, already in the library: Grandma's First Snap, Car Unboxing (titled PARKED), the 5-Pack Breakdown, the BF offer letter (titled PARKED) and Price Slash.
