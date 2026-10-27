@@ -35,7 +35,7 @@ Iterations are tagged **[ITER]**. Swipe rips are tagged **[RIP: brand]**. Transl
 | PETL135 | **Gifting reaction, he's gifted.** The same structure flipped: his wife gives it to him, and he reacts on screen | TOF/MOF gifting | [RIP: Soleil] | Allison Nelson's husband / Bo Richardson (with his wife, flipped). Not Rod: he's the face of PETL99 "My Daughter Got Me This" (in internal review, not launched), a near-identical gift story |
 | PETL136 | **The 65+ demo, three hooks as variations:** "Over 65 and not a gadget person?", "Grandma always has a charger.", and the "Is PETL legit?" quote card (#GP6117) | TOF | Hooks set, 2026-10-27 (already written and reviewed) | Kelsea Lopez's mother if 60+ / a sourced 60+ woman |
 | PETL137 | **Grandma's First Snap,** real reaction from a 70+ grandparent | TOF gifting | Ideas Library, To Brief | Abraham Gardner + grandparent / Kelsea's mother |
-| PETL138 | **Car unboxing, how it works** | TOF | PARKED; Rakesh asked twice | Rod Kynaston / Amy Griffin |
+| PETL138 | **Car unboxing, how it works,** with an older woman: she opens the parcel in the parked car and shows how it works | TOF | PARKED; Rakesh asked twice | Jenni Bowman / Amy Griffin (Grace, 2026-10-27) |
 | PETL139 | **Tech store aisle us vs them.** In a tech store's power bank section he picks up the household names (Anker, Belkin, Mophie), says what each lacks (concede Anker's capacity), then pulls out PETL: iPhone, Watch, AirPods from one disc | MOF/BOF | [RIP: the chocolate-bar store-aisle ad] | Zack Sammons / Rod Kynaston. Same shoot day as PETL132. (Replaces the Christmas 5-pack haul, which is parked) |
 
 Creator load: Zack 3 (PETL132, 133, 139, two of them one shoot day), Rod 2, Kelsea's household 2, and Aimee, Bo, Allison, Nicole and Abraham 1 each. That's 8 creators. Jenni Bowman has none now and is free as a backup.
@@ -62,14 +62,14 @@ Creator load: Zack 3 (PETL132, 133, 139, two of them one shoot day), Rod 2, Kels
 | PETL150 | "Our team is going to get fired" offer letter, played for laughs | BOF | PARKED for BF |
 | PETL151 | Price slash: up to [BF OFFER] off | BOF | Ideas Library |
 | PETL152 | "Yes, it's pricey. Here's why." | BOF | [RIP: Burga] |
-| PETL153 | Three reasons to grab PETL right now | BOF | [RIP: Burga] |
+| PETL153 | "Amateur / Intermediate / Expert" identity tiers in the Nero tweet-card layout: "How you charge your phone says a lot about you," tiers ending on PETL, headline "The only one on the list that charges your iPhone, Apple Watch and AirPods." No other brand names, made-up account, no fake view counts | MOF | Ideas Library (Oct 8) + Nero static reference (Grace, 2026-10-27). Replaces the three-reasons static, parked until there's a static reference |
 | PETL154 | "Is PETL legit?" with one trust badge: 4.8 stars from over 1,400 reviews (the 30-day trial goes in the primary text) | BOF retargeting | Trust objection |
 | PETL155 | CLD_1001 with the badge swapped to [BF OFFER] | BOF | [ITER: one variable] |
-| PETL156 | CLD_1001 as a carousel, one card per device then the bundle | MOF/BOF | [ITER: format swap] |
+| PETL156 | CLD_1001's message as an `Us vs Them` split: "3 chargers" (cable, Watch puck, AirPods cable) vs "1 PETL", under CLD_1001's own headline | MOF/BOF | [ITER: new composition]. Replaces the carousel (Grace, 2026-10-27) |
 | PETL157 | Space Black for men, desk scene | MOF/BOF | [ITER: new composition] |
 | PETL158 | "I regret buying my PETL…" with the 5,000mAh turn (PETL 2 Plus) | MOF/BOF | [ITER: PETL61 Hook 4 to static] |
 | PETL159 | Ranked gift guide for the grandparent who has everything | Gifting | [ITER: PETL65 format swap] |
-| PETL160 | Corporate gifting: swag they'll actually use | BOF lead gen | Rakesh, Oct 27 |
+| PETL160 | "Grandma always has a charger." identity static | TOF/MOF gifting | Hook 2 of the 65+ hooks set. Replaces corporate gifting, parked (Grace, 2026-10-27) |
 | PETL161 | Quoted review "The puck sized powerhouse of a charger is great!" + BF banner | BOF | Real review, 2026-01-08 |
 | PETL162 | Apology static for the Nov 4 colors (if Burgundy really sold out), fallback "Freedom from Cords" | MOF | [ITER: PETL60] / survey #GP5207 |
 
@@ -82,7 +82,7 @@ Creator load: Zack 3 (PETL132, 133, 139, two of them one shoot day), Rod 2, Kels
 
 ## BF banner pack (one brief, editor-only)
 
-One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF OFFER]" banner on the winning hook version only of each top ad. The editor re-edits price lines to current pricing. Winners: PETL60 V1, PETL65 / Sean_911 H4, PETL48 V2, PETL29 H4, PETL61 V4 and Clair (remove PETL15). That makes the batch 36 unless one concept drops. In Notion as "R8 · BF Banner Pack".
+One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF OFFER]" banner on the winning hook version only of each top ad. The editor re-edits price lines to current pricing. Winners: PETL60 V1, PETL65 / Sean_911 H4, PETL48 V2, PETL29 H4, PETL61 V4 and Clair (remove PETL15). That makes the batch 36 unless one concept drops. In Notion as "R8 · BF Banner Pack", format set to UGC by Grace (the editors handle it).
 
 ## Compliance and claim notes (fix before briefing)
 
@@ -115,3 +115,8 @@ One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF
 
 ## Notion
 - 31 ideas created in the Ideas Library on 2026-10-27 (R8 prefix, Status To Brief, Brand PETL). Not duplicated, already in the library: Grandma's First Snap, Car Unboxing (titled PARKED), the 5-Pack Breakdown, the BF offer letter (titled PARKED) and Price Slash.
+
+## Changes 2026-10-27 (Grace)
+- Car unboxing goes to an older woman (Jenni Bowman, backup Amy Griffin).
+- Carousel replaced by the Us vs Them split. The three-reasons static and corporate gifting are parked in Notion with reasons.
+- The Amateur / Intermediate / Expert static is in, using the Nero tweet-card reference. "Grandma always has a charger." static added.
