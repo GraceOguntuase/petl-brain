@@ -29,7 +29,8 @@ Shorthand: **WPA** = `sub-context-docs/website-and-product-audit.md`; **BIA** = 
 - **Is "Pre-Black Friday" or "Early Black Friday" wording approved, and from what date?** *Why:* PETL107, PETL92 A and PETL84 C are built and held on it. *(stated · PETL112 brief)*
 - **When is the tariff price increase, in writing?** *Why:* any "before prices go up" urgency needs a confirmed date. *(stated · docs/01)*
 - **Is the free-shipping threshold staying at $129 through Q4?** The live PDP shows $129+ (verified 2026-10-27), but Charley asked on 2026-10-20 for "a free shipping threshold," which reads as either a visibility problem or a planned change. Is the 2-pack still meant to be the default PDP selection? *(verified vs stated conflict)*
-- **When can we make Christmas creative?** Standing rule: none until the client says so. *(stated · docs/08)*
+- **When can we make Christmas creative?** Standing rule: none until the client says so. Parked for Batch 8 (Grace, 2026-10-27).
+- **Black Friday / Cyber Monday offer.** The media buyer has asked Rakesh; expected the week of 2026-11-02. BF-specific briefs wait for it. *(stated · Grace, 2026-10-27)*
 - **What's the stock position by color for Q4,** and is any "back in stock," "sold out" or "REMAINING: 171/1000" line true right now? *(data-limited · PETL108)*
 
 ### 2. Claims and legal posture (gates the three-device angle, the account's best-efficiency set)

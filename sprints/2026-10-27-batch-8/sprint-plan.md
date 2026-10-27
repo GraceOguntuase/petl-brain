@@ -4,7 +4,7 @@ brand: PETL
 batch: 8 (Master Creative Database; the Ideas Library may call it "R9")
 codes: PETL128 to PETL162
 generated_on: 2026-10-27
-version: 3 (BFCM rebuild; supersedes v1 and v2 of this file)
+version: 3.1 (BFCM rebuild with Grace's calls of 2026-10-27; supersedes earlier versions)
 status: draft for Grace
 launch_window: mid to late November 2026 (Black Friday Nov 27, Cyber Monday Nov 30)
 ---
@@ -25,33 +25,33 @@ Iterations are tagged **[ITER]**. Swipe rips are tagged **[RIP: brand]**. Transl
 
 | Code | Concept | Funnel | Source | First pick / backup |
 |---|---|---|---|---|
-| PETL128 | **Stacked colors offer.** Creator holds a stack of 5 PETL colors and talks through [BF OFFER]. Hooks: H1 the stack. H2 a 2-second ASMR montage of different colors snapping onto an iPhone, stacked before H1. H3 and H4 open | BOF | [RIP: Dr. Squatch soap stack] | Jenni Bowman / Amy Griffin. **Breaks the standing rule "never brief anything that needs multiple units per creator"** (brand-lens.md, which gives a 5-PETL stack as its example). Grace's call: override it and ask PETL to ship 5 colors, or build the stack from library footage |
+| PETL128 | **Stacked colors offer.** Creator holds a stack of 5+ PETL colors and talks through [BF OFFER]. Hooks: H1 the stack. H2 a 2-second ASMR montage of different colors snapping onto an iPhone, stacked before H1. H3 and H4 open | BOF | [RIP: Dr. Squatch soap stack] | Aimee Swanson (has 5–6 PETLs) / the client's own creator who has 5+ colors (ask Rakesh) |
 | PETL129 | **"Did anyone else order PETL last week, then see the Black Friday deal?"** A yapper. She ordered more for her family and lists what you get (real claims only) | BOF | [RIP: TAO Clean yapper] | Kelsea Lopez / Amy Griffin. Only honest if [BF OFFER] beats the standing up-to-30% bundle ladder, and "I ordered" has to be true for whoever says it. Creators got product free, so reword to "if you ordered last week…" unless she really bought. Paid-partnership disclosure |
 | PETL130 | **"PETL is still on sale. I just checked."** An excited, emotive creator repeating the deal, then benefits, then "make sure it's from gopetl.com" | BOF | [RIP: Resilia "still on sale"] | Nicole Brown / Rodger Harris. Pick on how expressive they are on camera. Only if [BF OFFER] beats the standing ladder |
 | PETL131 | **Skit: two of him.** One version keeps fishing for the right cord in a pouch; the other talks him into PETL, objection by objection | TOF/MOF, BF hook variant | [RIP: Feel Reformed matcha skit] | Rod Kynaston / Matt Ulman (Grace: male creators sell skits) |
-| PETL132 | **Store aisle us vs them.** In a tech store's power bank aisle he picks up well-known packs, says what each lacks (concede Anker's capacity), then pulls out PETL: iPhone, Watch, AirPods from one disc. iPhone Duo fit as the closer | MOF/BOF | [RIP: the chocolate-bar store-aisle ad] + Grace's Apple Store idea | Zack Sammons (has an iPhone Duo) / Rod Kynaston |
+| PETL132 | **Apple Store test.** He's "here to buy the iPhone Duo," but first checks which power bank actually fits it: one big-name pack versus PETL, filmed in the store. Apple branding in frame is fine (Grace, 2026-10-27) | MOF/BOF | Grace's idea + [RIP: Feel Reformed KFC us vs them] | Zack Sammons (has an iPhone Duo) / Rod Kynaston. Film the same day as PETL139 |
 | PETL133 | **Street interview, evergreen.** 3–4 evergreen hooks plus 1–2 holiday-gifting hooks as stackable variations. No Black Friday in the body so it runs year-round | TOF | Grace; the earlier street interview failed on execution, not idea | Zack Sammons. Rights and rate pending Grace's production call |
 | PETL134 | **Gifting reaction, she's gifted.** First person: husband hands his wife a box: "you're always at 5%," "it's [BF OFFER] for Black Friday." She unboxes, snaps it on, sets her Watch and AirPods on top, reacts | TOF/MOF gifting | [RIP: Soleil mom-gifting] | Bo Richardson + wife / Allison Nelson + husband |
 | PETL135 | **Gifting reaction, he's gifted.** The same structure flipped: his wife gives it to him, and he reacts on screen | TOF/MOF gifting | [RIP: Soleil] | Allison Nelson's husband / Bo Richardson (with his wife, flipped). Not Rod: he's the face of PETL99 "My Daughter Got Me This" (in internal review, not launched), a near-identical gift story |
 | PETL136 | **The 65+ demo, three hooks as variations:** "Over 65 and not a gadget person?", "Grandma always has a charger.", and the "Is PETL legit?" quote card (#GP6117) | TOF | Hooks set, 2026-10-27 (already written and reviewed) | Kelsea Lopez's mother if 60+ / a sourced 60+ woman |
 | PETL137 | **Grandma's First Snap,** real reaction from a 70+ grandparent | TOF gifting | Ideas Library, To Brief | Abraham Gardner + grandparent / Kelsea's mother |
 | PETL138 | **Car unboxing, how it works** | TOF | PARKED; Rakesh asked twice | Rod Kynaston / Amy Griffin |
-| PETL139 | **Christmas list sorted:** 5-pack haul with a problem hook, one for each person | MOF/BOF | Ideas Library, To Brief (Oct 8) | Jenni Bowman / Nicole Brown. **Gated:** "no Christmas creative until the client says so" (missing-context.md), and it needs 5 units (same multiple-units call as PETL128) |
+| PETL139 | **Tech store aisle us vs them.** In a tech store's power bank section he picks up the household names (Anker, Belkin, Mophie), says what each lacks (concede Anker's capacity), then pulls out PETL: iPhone, Watch, AirPods from one disc | MOF/BOF | [RIP: the chocolate-bar store-aisle ad] | Zack Sammons / Rod Kynaston. Same shoot day as PETL132. (Replaces the Christmas 5-pack haul, which is parked) |
 
-Creator load: Jenni 2, Rod 2, Zack 2, and Kelsea's household 2. Bo, Allison, Nicole and Abraham get 1 each. That's 8 creators, one more than Grace's 5–7. Fold PETL135 into Bo's household, the same couple flipped, to bring it to 7.
+Creator load: Zack 3 (PETL132, 133, 139, two of them one shoot day), Rod 2, Kelsea's household 2, and Aimee, Bo, Allison, Nicole and Abraham 1 each. That's 8 creators. Jenni Bowman has none now and is free as a backup.
 
 ### Other formats (8)
 
 | Code | Concept | Funnel | Source |
 |---|---|---|---|
-| PETL140 | **AI animation, Black Friday at PETL HQ.** Red lights, alarms, an animated employee narrating the office's reaction to how big the deal is, played as obvious comedy, never as something that really happened. **The one AI format.** "Biggest deal we've ever done" only if true | BOF | [RIP: RYZE "we messed up our sale" mascot] |
+| PETL140 | **AI animation, "somebody in the office messed up."** A plotted story: an animated employee at PETL HQ makes a mistake with the Black Friday deal, red lights and alarms everywhere, and the fix is the deal. Clearly fictional AI animation, which is fine for entertainment urgency (Grace, 2026-10-27). **The one AI format** | BOF | [RIP: RYZE "we messed up our sale" mascot] |
 | PETL141 | **"We're sorry if you bought PETL before Black Friday."** B-roll + AI VO, PETL60's apology structure turned to the deal, with a clean script (none of PETL60's banned lines) | BOF | [ITER: PETL60 structure] + [RIP: Dr. Squatch "before seeing this deal"]. Only if [BF OFFER] beats the standing ladder |
 | PETL142 | **"Yes, PETL's pricey."** Opens on someone glum staring at their phone ("Me thinking I can't spend $64.95 on a charger", spoken only, never on screen next to the discount), then the clapback when they see [BF OFFER]. Then why it costs what it costs: aluminum and glass, no plastic, three devices, 1-year warranty, try it risk-free for 30 days | BOF | [RIP: Burga price-objection, both versions]. Clapback only if [BF OFFER] beats the standing ladder |
 | PETL143 | **Three reasons to grab PETL right now:** the deal, the colors (one for everyone), the three devices from one disc | BOF | [RIP: Burga "3 reasons"] |
-| PETL144 | **PETL29 Father's Day body, new AI VO hooks:** Black Friday, Cyber Monday, Christmas (gated on client sign-off), evergreen. Halloween is past by launch, so it's dropped. PETL29 H4 (Aimee Swanson, wife to husband) ran $89.8K at 1.95 ROAS and a $38.98 CPA, May 21 to Jun 30, ad ID 120245096447160194 (paused, not deleted). **Trim the body:** its spoken CTA says "$49, up to 20% off & free shipping on two or more"; hooks 2 and 4 say "under $50"; module 09 says "charges up to 10 hours" (approved wording is "about another ten hours of talk time"); and check that "lavender" is still sold. End on an AI VO or end card with [BF OFFER]. "World's first circular MagSafe" stays only as the brand's own line | BOF gifting | [ITER: hook swap on PETL29] |
+| PETL144 | **PETL29 Father's Day body, new AI VO hooks:** Black Friday, Cyber Monday, general holiday gifting, evergreen (Christmas parked). Halloween is past by launch, so it's dropped. PETL29 H4 (Aimee Swanson, wife to husband) ran $89.8K at 1.95 ROAS and a $38.98 CPA, May 21 to Jun 30, ad ID 120245096447160194 (paused, not deleted). **Trim the body** (PETL144 is a new ad, so new-ad rules apply; the live PETL29 ads stay as they are): its spoken CTA says "$49, up to 20% off & free shipping on two or more"; hooks 2 and 4 say "under $50"; module 09 says "charges up to 10 hours" (approved wording is "about another ten hours of talk time"); and check that "lavender" is still sold. End on an AI VO or end card with [BF OFFER]. "World's first circular MagSafe" stays only as the brand's own line | BOF gifting | [ITER: hook swap on PETL29] |
 | PETL145 | **Hook stack on a ranking body.** PETL48 V2's "What's the best MagSafe power bank you can buy in 2026?" ($267.2K at 1.70, Jun to Aug) stacked onto the Sean_911/PETL65 Top 3 ranking body, which pays off a ranking promise. Max 3 hooks: PETL48 V2, PETL65's "Nobody tells you this when you get an Apple Watch…", and one gifting hook ("If you're looking for a gift this Black Friday…") as a separate variation. Seam: PETL48's hook was Jared (male tech reviewer) and the PETL65 body is an older woman, so the PETL65 creator re-reads the hooks or they run as AI VO over B-roll | MOF/BOF | [ITER: hook stacking] |
 | PETL146 | **CLD_1001 as a motion video** (one device per beat) with a [BF OFFER] banner variant | BOF | [ITER: format swap + banner] |
-| PETL147 | **PETL60, whispered, with the script cleaned.** The VO is re-read as a whisper and the banned lines are cut: "use it on the plane," "a full refund," the $42.40 ladder, "over 50,000 people," "charges just over 10 hours," "before it sells out again," and "last month." That's two changes, not a pure one-variable test | TOF/MOF | [ITER: VO swap + compliance fix] (stated · Grace, from the Dojo call) |
+| PETL147 | **PETL60, whispered, with the script cleaned.** The VO is re-read as a whisper and the banned lines are cut: "use it on the plane," "a full refund," the $42.40 ladder, "over 50,000 people," "charges just over 10 hours," "before it sells out again," and "last month." That's two changes, not a pure one-variable test. The live PETL60 stays as it is; only this new version gets the cleanup | TOF/MOF | [ITER: VO swap + compliance fix] (stated · Grace, from the Dojo call) |
 
 ## Statics (15)
 
@@ -59,7 +59,7 @@ Creator load: Jenni 2, Rod 2, Zack 2, and Kelsea's household 2. Bo, Allison, Nic
 |---|---|---|---|
 | PETL148 | "We're sorry if you bought before this deal" | BOF | [RIP: Dr. Squatch static]. Only if [BF OFFER] beats the standing ladder |
 | PETL149 | The 5-Pack Breakdown at the [BF OFFER] per-unit price | BOF | Ideas Library, Urgent |
-| PETL150 | "Our team is going to get fired" offer letter, as obvious comedy, never a claim that something happened | BOF | PARKED for BF |
+| PETL150 | "Our team is going to get fired" offer letter, played for laughs | BOF | PARKED for BF |
 | PETL151 | Price slash: up to [BF OFFER] off | BOF | Ideas Library |
 | PETL152 | "Yes, it's pricey. Here's why." | BOF | [RIP: Burga] |
 | PETL153 | Three reasons to grab PETL right now | BOF | [RIP: Burga] |
@@ -82,29 +82,27 @@ Creator load: Jenni 2, Rod 2, Zack 2, and Kelsea's household 2. Bo, Allison, Nic
 
 ## BF banner pack (editor-only, outside the 35)
 
-The cheapest Black Friday stock is the winners themselves with a persistent [BF OFFER] banner (gifting-and-q4-creative.md: "do not reinvent for the sale"). Add banner versions of PETL60 (after its script fix), Sean_911 H4 / PETL65, PETL48 V2, PETL29 H4 (trimmed) and Clair (code fixed). These are edits, not new concepts. Grace decides whether they count against the deal.
+The cheapest Black Friday stock is the winners themselves with a persistent [BF OFFER] banner (gifting-and-q4-creative.md: "do not reinvent for the sale"). Add banner versions of PETL60, Sean_911 H4 / PETL65, PETL48 V2, PETL29 H4 and Clair. One open question for Grace: a banner version is a new upload, so do its bodies keep their old price lines as they are, or get the new-ad trim? These are edits, not new concepts. Grace decides whether they count against the deal.
 
 ## Compliance and claim notes (fix before briefing)
 
-1. **PETL140, the office meltdown.** RYZE's script claims a real typo ("our developer made a typo and launched it at 3% off"). Inventing a mistake to sell a sale is a deceptive claim, so PETL can't say something happened that didn't. Keep the chaos and the energy, and play it as a clearly comic scene: an animated office reacting to how big the deal is. Only call it "the biggest discount we've ever done" if that's true for [BF OFFER].
+1. **PETL140 and PETL150.** A made-up office mistake is fine as clearly fictional AI animation or an obvious joke (Grace, 2026-10-27). The deal itself still has to be real, and "biggest deal we've ever done" only if true.
 2. **The TAO Clean and Resilia rips (PETL129, 130).** Use none of their claims. No "Today Show," no invented results, no "trouble keeping them on shelves." The proof that's safe: "4.8 stars from over 1,400 reviews," "sold out 7 times" (brand level only), "try it risk-free for 30 days," "1-year warranty." "Make sure it's from gopetl.com" is fine and true, since PETL only sells on its own site.
-3. **The Apple Store version of PETL132.** An Apple Store is full of Apple logos, which breaks the "no Apple logos on screen" rule. Filming inside also needs store permission. Do the tech-store aisle version, keep store signage unreadable, and name competitors only in speech or text (approved around late May: Apple, Anker, Belkin, Mophie). If Grace still wants the Duo angle, the creator can hold their own iPhone Duo outside or at home.
+3. **PETL132 in an Apple Store.** Apple branding in a real setting is fine (Grace, 2026-10-27; PETL47 ran with the Apple logo). Still never imply Apple endorses PETL, and check whether the store allows filming. Competitors are named in speech or text (approved around late May: Apple, Anker, Belkin, Mophie).
 4. **Every Watch moment** (PETL134, 135, 136): "set your Apple Watch or AirPods on top." Never "charges them all at the same time," and never a claim about how the Watch charges until Rakesh confirms.
 5. **"50% off" in the gifting reference** is a stand-in. Write [BF OFFER].
 6. **No in-flight use** anywhere. No "full charge" on the original PETL (it's "nearly a full charge on an iPhone 16 Pro" for the PETL 2 Plus only).
 
 ## Open before briefing
 
-1. [BF OFFER], expected next week.
-2. Ship 5 colors to PETL128's creator (Jenni), only if Grace overrides the multiple-units rule.
-3. Zack's street-interview rights and rate (Grace's production call).
+1. **[BF OFFER].** The media buyer has asked Rakesh; expected next week. BF-specific briefs (PETL128, 129, 130, 141, 142, 143, 148–153, the banner pack) get drafted last, once it's confirmed.
+2. Ask Rakesh whether his creator with 5+ colors can film PETL128, or book Aimee Swanson.
+3. Zack's street-interview rights and rate (Grace's production call), and whether he can shoot PETL132 and PETL139 on the same day.
 4. Kelsea's mother's age and willingness. A second 60+ woman would remove the single point of failure.
 5. Confirm PETL48 V2 is Hook 2 by opening the preview for ad 120247616071890194 (inferred from naming).
 6. Rakesh's Oct 15 concept image (Slack F0CA7K320HW), still unread. It's promised for this batch.
-7. **Send PETL60's live claims to Charley and Rakesh now.** The ad taking 21% of spend may be running "use it on the plane," "a full refund," "$42.40 each," "over 50,000 people," "charges just over 10 hours" and "before it sells out again" (Notion script; confirm against the live cut, Frame.io https://f.io/icasSWkj).
-8. Christmas sign-off from Rakesh for PETL133's holiday hooks, PETL139 and PETL144's Christmas hook.
-9. Grace's call on the multiple-units rule (PETL128, PETL139).
-10. A true purchase story for PETL129.
+7. A true purchase story for PETL129, or reword it to "if you ordered last week…"
+8. Christmas is parked. Later note from Grace: the stacked-PETLs hook would suit Christmas creative when it opens.
 
 ## Brand Context Applied
 - **What I used:** the Oct 27 Meta pulls (winners, 60-day trends, PETL29/48/99 lifetime), the Notion scripts, the personas (55+, women 65+), the claim rules, the creator roster, and Grace's swipe references and transcripts.

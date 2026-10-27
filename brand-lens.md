@@ -40,7 +40,7 @@ Shorthand: **docs/0N** = Grace's project files in `source-pulls/_exports/grace-c
 Hard rules. These outrank craft. The full working table is WPA "Claims safe to use in scripts"; this section holds the gates.
 
 **Apple affiliation (the client's only written restriction)**
-- Never "Apple-approved," "Apple-certified," "Made for Apple," "Official Apple accessory," "Apple-made," "Apple-endorsed." No Apple logos or marks. "Compatible with iPhone, Apple Watch, and AirPods" only in a factual compatibility context. *(stated · onboarding form, 2026-01-12; NSY extension, PETL68 editor notes)*
+- Never "Apple-approved," "Apple-certified," "Made for Apple," "Official Apple accessory," "Apple-made," "Apple-endorsed." "Compatible with iPhone, Apple Watch, and AirPods" only in a factual compatibility context. *(stated · onboarding form, 2026-01-12; NSY extension, PETL68 editor notes)* Apple branding is fine when it's just there in a real setting, like filming inside an Apple Store (PETL47 already ran with the Apple logo visible). What's banned is implying Apple endorses PETL, not showing Apple. *(stated · Grace, 2026-10-27)*
 - **Never "Made for iPhone" in any form,** even though the live homepage says "Made for iPhone Pro & Pro Max." It is Apple's licensing badge and sits next to the banned list. Flag to Rakesh, don't copy. *(verified homepage · WPA, 2026-10-27; avoidance inferred)*
 - Carry "PETL is not affiliated with or endorsed by Apple Inc." on Apple-led statics. *(stated · docs/01; footer verified · BIA)*
 - Competitor logos blurred, or brand names in text only. Default to blur (PETL47 ran with the Apple logo visible; that's the exception, not the rule). *(stated · PETL51 rule; docs/08)*
@@ -101,7 +101,7 @@ Hard rules. These outrank craft. The full working table is WPA "Claims safe to u
 - Change location every 2 to 3 lines. Exception: a seated tech-reviewer unboxing. *(stated · docs/03, docs/04 §E)*
 - Profanity soft or censored only ("freaking"). *(stated · Grace, Slack 2026-10-16)*
 - Show real faces struggling with the exact problem. Never phone-screen-only or device-only hook shots. Every Apple mention cuts in 3 to 5 seconds of real Apple pack B-roll. Music: warm chill lofi, no swell at the reveal. Larger captions for 55+. *(stated · docs/04 §F)*
-- Keep product needs minimal. Never brief anything that needs multiple units per creator. *(stated · CLAUDE.md export)*
+- Keep product needs minimal for the shipped creator roster (each got 1 Original + 1 PETL 2 Plus). That's a roster-logistics rule, not a creative rule. Concepts that need several units are fine when a creator already has them, like Aimee Swanson (5–6 PETLs) or the client's own creators. *(stated · CLAUDE.md export; scope clarified by Grace, 2026-10-27)*
 - Creator casting: diverse in age and ethnicity, 20s to 30s and 40s to 60s+, both genders, iPhone Duo owners preferred, every creator shoots family gifting B-roll. *(stated · Pat, Slack internal 2026-09-29)*
 - Who is on screen decides who Meta delivers to. Pick the creator for the audience you want. *(stated · Round 3 kickoff, 2026-04-22; docs/03)*
 
@@ -115,7 +115,9 @@ Hard rules. These outrank craft. The full working table is WPA "Claims safe to u
 **Operational**
 - INTL ad names must never carry "NSY." "This is important." *(stated · Rakesh, Slack 2026-06-10)* Use the pre-written ad titles from the dashboard so the feedback loop can learn. *(stated · Slack 2026-10-05)*
 - When pricing or tiers shift, flag live creative with stale claims to Charley or Rakesh. It isn't an editor task. Known stale live ads: PETL65 ("free shipping on two or more"), the Father's Day winner ($49), PETL45 ($49, "half the price"), PETL53 ("Free shipping on 2+"). *(stated · docs/01, docs/08)*
-- No Christmas creative until the client says so. *(stated · docs/08)*
+- No Christmas creative until the client says so. For Batch 8, Christmas is parked: focus on Black Friday, Cyber Monday and general holiday gifting. *(stated · docs/08; Grace, 2026-10-27)*
+- **Rules apply to new ads only.** Don't edit or pull live ads when prices, offers or claim rules change (PETL60, PETL29 and the rest stay as they are). Every rule in this file governs new creative. *(stated · Grace, 2026-10-27)*
+- **Obvious fiction is fine in AI animation.** A made-up office mistake or comic chaos story (the RYZE "we messed up our sale" style) is fine as an AI animation, because it's clearly not real. It's entertainment urgency, not a factual claim. *(stated · Grace, 2026-10-27)*
 
 ## What has worked and what has failed
 
