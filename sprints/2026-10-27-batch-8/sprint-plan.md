@@ -126,14 +126,15 @@ One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF
 - **PETL125 iteration** (video, Broll + AI VO): product by about 20s plus an us vs them, with a control cut. Full script in `petl125-iteration.md`, fact- and voice-checked; in Notion as "R8 · PETL125 60 Years of Phones". It adds a video, so the batch is 37 with the banner pack unless something drops.
 - Recast: the yapper goes to Jenni first, and the car unboxing goes to Rod (a male creator, for camera quality).
 
-## UGC casting v2 (Grace, 2026-10-28)
+## UGC casting v3 (Grace, 2026-10-28)
 
-Replaces the creator columns above. 15 UGC concepts (the 12 above plus 3 new: "3 things I didn't know my PETL could do", "Black Friday gift for my parents", "Is PETL worth the price?" comment reply). The rules: 5 to 7 creators max, 2 or 3 concepts each, nobody who filmed Batch 7 (see production/creator-roster.md).
+Replaces the creator columns above and the earlier v2 split. 15 UGC concepts: the 12 above plus 3 new ones ("3 things I didn't know my PETL could do", "Black Friday gift for my parents", "Is PETL worth the price?" comment reply). 7 creators, mostly from Alyanna's Oct 28 list of creators who have PETL. Two exceptions: Zack (quality) and Aimee (the only one with a stack of colors).
 
-- Hannah Kim (3): PETL130 still on sale, PETL137 Grandma's First Snap (needs a grandparent on camera, ask), gift for my parents (new)
-- Zack Sammons (3): PETL132 Apple Store test, PETL139 tech store aisle (same shoot day), PETL138 car unboxing. The one Batch 7 repeat, on purpose: Grace rates his quality above Matt Ulman's (2026-10-28)
-- Rodger Harris + Cynthia (2): 3 things (new), PETL136 65+ demo (Cynthia leads, only if she's 60+)
-- Nicole Brown (2): PETL129 yapper, "Is PETL worth the price?" reply (new)
+- Zack Sammons (3): PETL132 Apple Store test, PETL139 tech store aisle (same shoot day), PETL138 car unboxing. A Batch 7 repeat on purpose; Grace rates his quality above Matt Ulman's
+- Rachel Ramos (3): PETL130 still on sale, PETL129 yapper, "Is PETL worth the price?" reply (new). Grace: great at script reads, so she gets the female yapper and talking-head work
+- Hannah Kim (2): gift for my parents (new), PETL137 Grandma's First Snap. Should have a family member to feature; if not, rework the brief around who she does have
+- Rodger Harris + Cynthia Chadwick (2): 3 things (new), PETL136 65+ demo with Cynthia leading (Grace: Cynthia is older)
 - Allison Nelson + husband (2): PETL134 and PETL135 gifting reactions, both directions
-- Brian Bickerton (1): PETL133 street interview
-- Still deciding: PETL131 skit (Grace is checking the older and younger male creators), PETL128 stacked colors (needs a creator with 5+ colors; Aimee has them but is off the roster)
+- Brian Bickerton (2): PETL131 skit (he's done skits before), PETL133 street interview
+- Aimee Swanson (1): PETL128 stacked colors. Exception: she's the only creator with 5 or 6 colors at home
+- Out: Nicole Brown (Rachel replaces her), Matt Ulman (Zack replaces him)
