@@ -131,7 +131,7 @@ One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF
 Replaces the creator columns above. 15 UGC concepts (the 12 above plus 3 new: "3 things I didn't know my PETL could do", "Black Friday gift for my parents", "Is PETL worth the price?" comment reply). The rules: 5 to 7 creators max, 2 or 3 concepts each, nobody who filmed Batch 7 (see production/creator-roster.md).
 
 - Hannah Kim (3): PETL130 still on sale, PETL137 Grandma's First Snap (needs a grandparent on camera, ask), gift for my parents (new)
-- Matt Ulman (3): PETL132 Apple Store test, PETL139 tech store aisle (same shoot day), PETL138 car unboxing
+- Zack Sammons (3): PETL132 Apple Store test, PETL139 tech store aisle (same shoot day), PETL138 car unboxing. The one Batch 7 repeat, on purpose: Grace rates his quality above Matt Ulman's (2026-10-28)
 - Rodger Harris + Cynthia (2): 3 things (new), PETL136 65+ demo (Cynthia leads, only if she's 60+)
 - Nicole Brown (2): PETL129 yapper, "Is PETL worth the price?" reply (new)
 - Allison Nelson + husband (2): PETL134 and PETL135 gifting reactions, both directions
