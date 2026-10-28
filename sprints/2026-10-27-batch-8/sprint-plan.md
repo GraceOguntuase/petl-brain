@@ -132,7 +132,7 @@ Replaces the creator columns above. 15 UGC concepts (the 12 above plus 3 new: "3
 
 - Hannah Kim (3): PETL130 still on sale, PETL137 Grandma's First Snap (needs a grandparent on camera, ask), gift for my parents (new)
 - Matt Ulman (3): PETL132 Apple Store test, PETL139 tech store aisle (same shoot day), PETL138 car unboxing
-- Rodger Harris + Cynthia (3): 3 things (new), PETL136 65+ demo (Cynthia leads, only if she's 60+), one more if needed
+- Rodger Harris + Cynthia (2): 3 things (new), PETL136 65+ demo (Cynthia leads, only if she's 60+)
 - Nicole Brown (2): PETL129 yapper, "Is PETL worth the price?" reply (new)
 - Allison Nelson + husband (2): PETL134 and PETL135 gifting reactions, both directions
 - Brian Bickerton (1): PETL133 street interview
