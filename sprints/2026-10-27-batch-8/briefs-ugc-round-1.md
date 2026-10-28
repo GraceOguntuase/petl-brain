@@ -4,7 +4,7 @@ brand: PETL
 batch: 8 (R8)
 generated_on: 2026-10-28
 version: v2 (rebuilt after Grace scored v1 a 5/10)
-status: grounded and voice-checked, pending Grace's OK before Notion
+status: approved by Grace, pushed to Notion 2026-10-28
 ---
 
 # R8 UGC briefs, round 1 (v2): car unboxing and the two gifting reactions
@@ -132,3 +132,11 @@ Grounded on round 2. Round 1 passed every fact but bounced on how well the scrip
 ## Voice Review
 
 Ships after 27 line rewrites. Lint was 0 flags before and after, so every fix came from the read-aloud pass against Grace's docs/04 register and the PETL65, Father's Day and PETL74 winners. The fixes added self-correction and concession lines, broke up runs of lines starting with "And," fixed a false timeline in PETL138's transformation, made the gifting ads stop sounding like twins of each other, and made the recipients' CTAs sound less like an ad read.
+
+## Notion (pushed 2026-10-28)
+
+- PETL134 concept: https://app.notion.com/p/407df9f700e581be9335d7dfee2f9d02 · brief: https://app.notion.com/p/407df9f700e581248ea9cf9824ddf767 (shot list for both Allison briefs lives here)
+- PETL135 concept: https://app.notion.com/p/407df9f700e581fa98d8cfbb8a576b6e · brief: https://app.notion.com/p/407df9f700e5818695fbee36f5eb123b
+- PETL138 concept: https://app.notion.com/p/407df9f700e581afa3b0ccc53a421627 · brief: https://app.notion.com/p/407df9f700e581d7a8ecee393a174986
+- Concept pages set to Batch 8, In progress / Strategy, Creator Needed, with Description, Hypothesis, ICP and Brief Link. A Time Log "Brief Done" row was added to each. The Ideas Library entries are marked Brief Submitted.
+- Caption direction and music use the PETL writing-rules defaults (big burned-in captions; warm, chill lofi, no swell), marked for Grace to confirm. The Drive link is the standard PETL creator upload folder.
