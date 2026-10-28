@@ -125,3 +125,15 @@ One brief, not five (Grace, 2026-10-27): a moving or rotating "Black Friday: [BF
 ## Added 2026-10-27
 - **PETL125 iteration** (video, Broll + AI VO): product by about 20s plus an us vs them, with a control cut. Full script in `petl125-iteration.md`, fact- and voice-checked; in Notion as "R8 · PETL125 60 Years of Phones". It adds a video, so the batch is 37 with the banner pack unless something drops.
 - Recast: the yapper goes to Jenni first, and the car unboxing goes to Rod (a male creator, for camera quality).
+
+## UGC casting v2 (Grace, 2026-10-28)
+
+Replaces the creator columns above. 15 UGC concepts (the 12 above plus 3 new: "3 things I didn't know my PETL could do", "Black Friday gift for my parents", "Is PETL worth the price?" comment reply). The rules: 5 to 7 creators max, 2 or 3 concepts each, nobody who filmed Batch 7 (see production/creator-roster.md).
+
+- Hannah Kim (3): PETL130 still on sale, PETL137 Grandma's First Snap (needs a grandparent on camera, ask), gift for my parents (new)
+- Matt Ulman (3): PETL132 Apple Store test, PETL139 tech store aisle (same shoot day), PETL138 car unboxing
+- Rodger Harris + Cynthia (3): 3 things (new), PETL136 65+ demo (Cynthia leads, only if she's 60+), one more if needed
+- Nicole Brown (2): PETL129 yapper, "Is PETL worth the price?" reply (new)
+- Allison Nelson + husband (2): PETL134 and PETL135 gifting reactions, both directions
+- Brian Bickerton (1): PETL133 street interview
+- Still deciding: PETL131 skit (Grace is checking the older and younger male creators), PETL128 stacked colors (needs a creator with 5+ colors; Aimee has them but is off the roster)
