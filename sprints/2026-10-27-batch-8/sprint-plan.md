@@ -138,3 +138,8 @@ Replaces the creator columns above and the earlier v2 split. 15 UGC concepts: th
 - Brian Bickerton (2): PETL131 skit (he's done skits before), PETL133 street interview
 - Aimee Swanson (1): PETL128 stacked colors. Exception: she's the only creator with 5 or 6 colors at home
 - Out: Nicole Brown (Rachel replaces her), Matt Ulman (Zack replaces him)
+
+## Casting and numbering update (Grace, 2026-10-28)
+
+- Notion concept numbers start at PETL128 and are assigned in brief order, not by the codes in this plan. So far: PETL128 Car Unboxing (Zack), PETL129 Husband Gifts Wife (Allison + husband), PETL130 Wife Gifts Husband (Amy Griffin + husband).
+- The wife-gifts-husband brief moves from Allison to Amy Griffin + husband, because her husband is strong on camera. Amy is a Batch 7 repeat on purpose. Allison is down to one concept, so she has room for a second.

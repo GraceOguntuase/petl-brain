@@ -140,3 +140,14 @@ Ships after 27 line rewrites. Lint was 0 flags before and after, so every fix ca
 - PETL138 concept: https://app.notion.com/p/407df9f700e581afa3b0ccc53a421627 · brief: https://app.notion.com/p/407df9f700e581d7a8ecee393a174986
 - Concept pages set to Batch 8, In progress / Strategy, Creator Needed, with Description, Hypothesis, ICP and Brief Link. A Time Log "Brief Done" row was added to each. The Ideas Library entries are marked Brief Submitted.
 - Caption direction and music use the PETL writing-rules defaults (big burned-in captions; warm, chill lofi, no swell), marked for Grace to confirm. The Drive link is the standard PETL creator upload folder.
+
+## Changes after the Notion push (Grace, 2026-10-28)
+
+- **Concept numbers start at 128,** assigned in brief order: PETL128 Car Unboxing, PETL129 Husband Gifts Wife, PETL130 Wife Gifts Husband. The "PETL134/135/138" labels above are the old placeholder codes. Briefs and concept pages are renamed in Notion.
+- **Every hook gets its own overlay of 5-8 words** (set in Notion):
+  - PETL128: H1 "The charger Apple should've made" · H2 "Begged a stranger to charge my iPhone. Again." · H3 "My Apple Watch died mid-run. Again." · H4 "iPhone, Apple Watch AND AirPods owners, look"
+  - PETL129: H1 "My wife's iPhone is NEVER charged" · H2 "She missed our daughter's call. Again." · H3 "The Black Friday gift for your wife" · H4 "12 years married. Never above 20%." (match their real years)
+  - PETL130: H1 "Gift for the husband who 'wants nothing'" · H2 "He asked our waiter to charge his iPhone" · H3 "He says he wants nothing. Ignore him." · H4 "My husband's iPhone is ALWAYS dying"
+- **PETL130 recast to Amy Griffin + husband.** Grace wanted a husband who's great on camera, and Amy's casting note says exactly that (her husband leads, Amy stays off camera). The script now reads WIFE/HUSBAND, and PETL130 has its own 10-shot list. Amy filmed in Batch 7, so this is a deliberate repeat. Allison now has one concept (PETL129).
+- **PETL128 reference is now the Soleil ad,** since it's filmed in a car (replaces Claire's unboxing).
+- **Concept fields filled on all three:** Strategist and Edit Reviewer = Grace, Priority = Urgent, Type = Net New, Creator Needed = yes, Creator(s) = Zack Sammons / Allison Nelson / Amy Griffin (all found in the Creator Database).
