@@ -143,3 +143,9 @@ Replaces the creator columns above and the earlier v2 split. 15 UGC concepts: th
 
 - Notion concept numbers start at PETL128 and are assigned in brief order, not by the codes in this plan. So far: PETL128 Car Unboxing (Zack), PETL129 Husband Gifts Wife (Allison + husband), PETL130 Wife Gifts Husband (Amy Griffin + husband).
 - The wife-gifts-husband brief moves from Allison to Amy Griffin + husband, because her husband is strong on camera. Amy is a Batch 7 repeat on purpose. Allison is down to one concept, so she has room for a second.
+
+## Hannah and batch mix update (Grace, 2026-10-29)
+
+- Hannah Kim only has her husband around, so no parent or grandparent on camera. The Black Friday gift brief stays with her, retargeted to "Black Friday gift for my husband." To keep it apart from PETL130 (Amy, a wife-gifts-husband unboxing reaction), Hannah's runs as a talking-head gift recommendation with her husband in the B-roll, not a reaction unboxing.
+- Grandma's First Snap comes off Hannah. Her second concept is to be replaced (proposed: "What's in my purse," evergreen TOF; Grace to pick).
+- Batch mix confirmed: 14 UGC, 6 AI voiceover, 1 animation. The Ideas Library holds 14 UGC, and Grace is fine with 14 instead of 15.
