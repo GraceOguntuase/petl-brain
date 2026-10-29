@@ -4,7 +4,7 @@ brand: PETL
 batch: 8 (R8)
 generated_on: 2026-10-29
 version: v1
-status: draft, pending Grace's review before Notion
+status: approved by Grace, pushed to Notion 2026-10-29
 ---
 
 # R8 UGC briefs, round 2: Apple Store test, tech store aisle, street interview, skit
@@ -213,3 +213,11 @@ Bounced once, then fixed. Cut two untraced competitor lines in PETL132 ("It's th
 ## Voice Review
 
 Flagged, then fixed: 27 line rewrites, all lines and overlays only, no claims touched. Mostly breaking up same-shape runs, swapping written pauses ("...") for spoken ones, and replacing overlays that repeated the spoken hook. Lint 0 flags before and after. No PETL script-voice profile exists yet, so the benchmark is docs/04 plus the round-1 scripts. Second pass: 7 more rewrites on the new street interview and the aisle blanks, including putting Grace's PETL38 wording back into Q2 and Q3. Third pass (short store cuts): 10 rewrites (appositive tags, a vague "that's" on the talk-time line, four overlays that repeated their hooks). Fourth pass (PETL132 v3): 11 rewrites, mostly cutting "actually" (seven uses) and two overlays that repeated their hooks. Lint 0 before and after. Fifth pass (PETL133/134 v3): 14 rewrites, mostly trimming repeated "Okay," and turning Brian's spec list in the skit back into a two-person exchange. Lint 0 before and after.
+
+## Notion links (pushed 2026-10-29, all four approved by Grace)
+
+- PETL131 Apple Store Test (Zack): concept https://app.notion.com/p/408df9f700e5810a805ae3ceb252114a, brief https://app.notion.com/p/408df9f700e58112bcc1f334941a535a
+- PETL132 Tech Store Aisle (Zack): concept https://app.notion.com/p/408df9f700e581dfa96be9b09ca37018, brief https://app.notion.com/p/408df9f700e58102bbd6e0485d252b4a
+- PETL133 Street Interview (Brian): concept https://app.notion.com/p/408df9f700e58173bb5ac54233078c7d, brief https://app.notion.com/p/408df9f700e581e1896eee1410981db7
+- PETL134 Skit, Brian and Jake (Brian): concept https://app.notion.com/p/408df9f700e5815d9379d1a5ead521e6, brief https://app.notion.com/p/408df9f700e58173917edd64e5b2deff
+- Ideas Library cards set to Brief Submitted. Concept numbers 131-134 were set without the usual database count (Notion query limit hit); a search found no clashes.
