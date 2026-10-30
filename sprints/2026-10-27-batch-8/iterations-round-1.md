@@ -168,6 +168,7 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 
 **Other editor notes:**
 - Keep the static's exact colors, fonts, product shots and words. Don't redesign.
+- Who builds it is open (Grace, 2026-10-30): ask the editor chat who's good at motion graphics. The moves are simple (slide-ins, a snap, text pops), so CapCut or Premiere keyframes on the layered static are enough. Fallback: animate each band with an AI image-to-video tool, then assemble.
 - One device per beat, never all three charging in the same moment.
 - Export 1080x1080 (the size that won) and 1080x1920 for Reels and Stories (extend the bands to fill).
 - Sound: a crisp magnetic snap on each beat, light upbeat music under it.
