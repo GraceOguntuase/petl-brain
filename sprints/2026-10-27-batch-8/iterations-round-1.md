@@ -183,3 +183,4 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 - PETL138 PETL125 Re-cut: concept https://app.notion.com/p/409df9f700e58195b8afe09685a0cf44, brief https://app.notion.com/p/409df9f700e581f2925df2b53683081d
 - PETL139 PETL60 Whispered: concept https://app.notion.com/p/409df9f700e58139b7c1c4c4f7268559, brief https://app.notion.com/p/409df9f700e581909cedfa51aed170f4
 - Held: section 6 (CLD_1001 motion) until the lead editor replies. Not yet written: "We're sorry if you bought before Black Friday."
+- PETL140 CLD_1001 Motion Video (Fedor): concept https://app.notion.com/p/409df9f700e581be8318ed323326ded7, brief https://app.notion.com/p/409df9f700e581e1a94fd51205c9217a. Editor set to Fedor Vostrikov (vostrikovfedor@gmail.com); a second account, "Fedor (Video Editor)" (skyfilm.rs@gmail.com), also exists. Grace to confirm which.
