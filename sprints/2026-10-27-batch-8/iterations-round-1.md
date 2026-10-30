@@ -61,3 +61,28 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 **Grounding Review:** bounced once ("biggest ad family" was wrong, PETL60 is bigger; "MagSafe power bank" as a product noun; a Google-styled search screen; unconfirmed links and cut point), all fixed or labeled.
 
 **Voice Review:** 5 rewrites, mostly overlays that repeated the hook; then 1 more on Hook 5's turn. Hook 4's overlay keeps Grace's "Best gift for [person] 2026" format on purpose. Lint 0 before and after.
+
+## 3. PETL29 Father's Day body + new holiday hooks
+
+- **Concept:** Keep the PETL29 H4 body, Aimee Swanson's wife-to-husband gift testimonial, as it ran, and swap the Father's Day hook for four holiday hooks: Black Friday, Cyber Monday, holiday gifting, and evergreen.
+- **Target audience:** Women buying a gift for their husband or partner (30-55).
+- **Source ad:** NSY | PETL29 | H4, ad 120245096447160194 (paused). Brief: https://app.notion.com/p/34adf9f700e5818e8033c0fb46d5ea90. Frame.io: https://f.io/WEvhK3lE
+- **Why:** PETL29 H4 is the account's top gifting ad: $89.8K at 1.95 ROAS and a $38.98 CPA, May 21 to Jun 30 (Meta pull, 2026-10-27). Its winning hook was "The Father's Day gift I give every man in my life. Under $50. He'll actually use it every day." The body works any time of year; only the occasion in the hook is dated. One variable: the hook. Sprint plan PETL144.
+- **Who records the hooks:** Aimee re-reads them on camera (best, it's her voice into her body, and she's already filming this batch). Fallback: warm female AI VO over B-roll.
+- **Body edit:** start at module 05, "My husband is the hardest person in the world to shop for." Everything through module 13 stays as it ran. The only change is the price in the CTA (see row 06).
+
+| Module | Script | Visual | Editor notes |
+|---|---|---|---|
+| 01 Hook 1 (Black Friday) | "If you're doing your Black Friday shopping for your husband, I've got one for you. It's under seventy dollars, and he'll actually use it every day." | Aimee holds PETL up, kitchen | Open on 2-3s of PETL B-roll, then cut to her. Black Friday wording needs Rakesh's sign-off. Overlay: "The Black Friday gift for your husband" |
+| 02 Hook 2 (Cyber Monday) | "Your husband's going to say he doesn't want anything this year. Get him this anyway. Especially on Cyber Monday." | Knowing smile, holds PETL up | Clean talking head. Cyber Monday wording needs Rakesh's sign-off. Overlay: "Cyber Monday gift for the man who wants nothing" |
+| 03 Hook 3 (holiday gifting) | "The holiday gift I'm giving every man in my life this year. It's under seventy dollars, and he'll actually use it every day." | Holds PETL visible | Same treatment as the winning H4: 2-3s PETL B-roll, then cut to her on "he'll actually use it every day." Overlay: "Best gift for your husband 2026" |
+| 04 Hook 4 (evergreen) | "This is genuinely the best gift I've ever given my husband. And it was under seventy dollars." | Warm, holds PETL up on "this" | Open on 2-3s of her handing a gift to her husband if the reservoir footage exists. Split screen: PETL B-roll on top, Aimee on the bottom. Overlay: "Best gift I've given him in 20 years" |
+| 05 Body | [PETL29 modules 05 to 13 as they ran, from "My husband is the hardest person in the world to shop for" to "I ordered their lavender color for myself."] | As it ran | No changes |
+| 06 CTA | If Aimee re-records: "It's under seventy dollars, and you can get up to 30% off when you get more than one. Trust me, it's the gift he'll love." If not: cut "It's $49, but you can get up to 20% off & free shipping when you order two or more." and keep "Trust me, it's the gift he'll love." | Aimee to camera, PETL in hand | End card: "[BF OFFER] | 30 days risk-free | 1-year warranty | gopetl.com" on the Black Friday and Cyber Monday edits; "Up to 30% off | 30 days risk-free | 1-year warranty | gopetl.com" on the holiday and evergreen edits |
+
+**Creator notes (if Aimee re-records):** film the four hooks and the new CTA line in the same kitchen and outfit as the original if you can, so they cut into the body cleanly. Hold PETL up in every hook. Keep the warm, knowing "wife energy" from the original.
+
+**Other editor notes:**
+- Four edits, one per hook, same body.
+- Keep the original cut, music and captions for the body. Fix caption spelling to American (aluminum).
+- The Black Friday and Cyber Monday edits get the banner-pack style banner.
