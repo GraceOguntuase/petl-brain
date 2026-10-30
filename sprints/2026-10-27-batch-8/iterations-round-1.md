@@ -104,26 +104,27 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 1. "Here are 60 years of phones and the one problem none of them ever fixed."
 2. "1960s, the rotary phone. It hung on the kitchen wall [CUT: and you dialed every number one slow turn at a time]. The catch? You could only go as far as the cord would stretch and the whole house could hear your call."
 3. [CUT: the 1980s cordless phone lines]
-4. "Then came the first real mobile phone, the brick phone. It cost nearly four thousand dollars, gave you about 30 minutes of talk time and took 10 hours to recharge."
+4. "Then came the first real mobile phone, the brick phone. It cost nearly four thousand dollars [CUT: , gave you about 30 minutes of talk time and took 10 hours to recharge]."
 5. [CUT: the 1990s car phone in a bag lines]
-6. [CUT: the 2000s Nokia and flip phone lines]
+6. "2000s, the Nokia then the flip phone. The battery lasted for days but when it died you carried a spare, popped the back off and swapped it."
 7. "Then the iPhone changed everything except it sealed the battery inside and suddenly you were charging every single day."
-8. "2010s, [CUT: the battery case with a hump on the back that doubled the size of your phone or] the power bank, a heavy brick in your bag with a cable dangling off your phone."
+8. [CUT: the 2010s battery case and power bank lines]
 9. "2020s, MagSafe battery packs. Finally no cable but Apple's own pack cost $99, held just 1460 milliamp hours and was discontinued in 2023."
 10. "And Anker, Belkin, Mophie, they only charge your iPhone. Your Apple Watch and AirPods still need their own cables."
 11. "60 years later, phones can video call the other side of the world and when the battery dies you're still doing what your parents did in 1965, standing next to a wall."
 12. "That's where PETL comes in. The world's first circular MagSafe compatible power bank. It snaps onto the back of your iPhone and charges while you use it. No cords, no hump, no brick. Around 10 extra hours and just 14 millimeters thin."
-13. NEW: "It even shows up right in your iPhone's battery widget, so you always know how much is left." *(B-roll: battery widget screen)*
+13. NEW: "The magnets line it up on their own, so there's nothing to fiddle with. And it shows up right in your iPhone's battery widget. No app." *(B-roll: snap and self-align macro, battery widget screen)*
 14. "And it charges your Apple Watch and AirPods too." NEW: "Just set your Apple Watch or your AirPods case on top." "One charger for all three." *(B-roll: Watch on top, then AirPods, one at a time)*
-15. NEW: "It's made from aluminum and glass, and it's almost the size of a golf ball, so it fits right in your coin pocket. At night, it stands your iPhone up on your nightstand." *(B-roll: macro on the aluminum edge, coin pocket, nightstand stand)*
-16. NEW: "There's the original PETL for a top-up that gets you through the day, and the PETL 2 Plus for nearly a full charge on an iPhone 16 Pro." *(B-roll: both side by side, same footing)*
-17. "Over 80,000 people have already made the switch. 4.8 stars from over 1,100 reviews."
-18. "This is the charger every phone of the last 60 years was waiting for. Right now, PETL is up to 30% off with a 30-day full refund if you don't love it. Tap below to grab yours."
+15. NEW: "A little light ring shows you how much charge is left. It's aluminum and glass, with built-in thermal sensors. Almost the size of a golf ball, so it slips right into your coin pocket." *(B-roll: LED ring lighting up, macro on the aluminum edge, coin pocket)*
+16. NEW: "At night, its flat edge stands your iPhone up on your nightstand." *(B-roll: StandBy on a nightstand)*
+17. NEW: "There's the original PETL for a top-up that gets you through the day, and the PETL 2 Plus for nearly a full charge on an iPhone 16 Pro." *(B-roll: both side by side, same footing)*
+18. "Over 80,000 people have already made the switch. 4.8 stars from over 1,100 reviews."
+19. "This is the charger every phone of the last 60 years was waiting for. Right now, PETL is up to 30% off with a 30-day full refund if you don't love it. Tap below to grab yours."
 
 **Other editor notes:**
 - One edit, no hook variations. The opening line (1) is the hook.
-- PETL now lands at about 1:05 instead of about 1:40. If you want it sooner, cut line 8 too (about 0:58).
+- PETL now lands at about 1:05 instead of about 1:40. The Nokia and flip phone stay for the nostalgia (Grace, 2026-10-30).
 - Everything else as in the PETL125 brief: era looks, music, captions, the wall callback in line 11.
-- New B-roll for lines 13 to 16 from the PETL Drive and the NSY B-roll library.
+- New B-roll for lines 13 to 17 from the PETL Drive and the NSY B-roll library.
 
-**Voice and claim check (new lines only):** passed after 2 rhythm fixes (stacked "And" openers). Claims on lines 13 to 16 match the brand-lens wording. Lint 0 before and after.
+**Voice and claim check (new lines only):** passed after 2 rhythm fixes, then 2 more on the mechanism lines (a "here's what makes it different" opener and a stacked list). Claims on lines 13 to 17 match brand-lens and the product audit. Lint 0 before and after.
