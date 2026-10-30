@@ -147,3 +147,28 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 - Keep every visual, cut point and text card from V1. Re-time captions to the new VO.
 - Fix caption spelling to American (aluminum, colors, guarantee).
 - Keep the music low under the whisper so it reads as a whisper.
+
+## 6. CLD_1001 Three-Band Static as a Motion Video + BF Banner (editor-only)
+
+- **Concept:** Turn the CLD_1001 three-band static into a short motion video, one device per beat, keeping its exact layout, colors and words, plus a Black Friday banner version.
+- **Source ad:** INTL | CLD_1001 | V2 | Three-device ecosystem, ad 120250304411110194, creative 1788651002086226, image hash 506326177ed3d770f053b5c7a12e6e17 (file INTL_CLD_1001_2_1080.png, 1080x1080).
+- **What the static shows:** three full-width bands stacked top to bottom. Burnt orange: an orange iPhone with an orange PETL on its back, big white "iPhone." Sage green: an Apple Watch with a sage band on a sage PETL, "Watch." Dusty pink: a white AirPods case on a pink PETL, "Airpods.", then "Everything you rely on, powered by one pocket-sized charger." and a white pill "UP TO 30% OFF".
+- **Why:** CLD_1001 V2 is the account's volume and cheap-reach winner: $53.6K at 1.79 ROAS and 739 purchases, almost all after Oct 20, at about a $47 CPM against $117 for the account, and it pulled a younger, more male buyer (35 to 54, about 45% men) (Meta pull and October monthly report). Motion gets it into Reels and Stories placements and gives the snap a sound. One variable: static to motion, same design (sprint plan PETL146).
+
+**The motion (about 8 to 10 seconds, loops cleanly):**
+1. 0-2s: the orange band slides in. The PETL snaps onto the back of the orange iPhone, with a snap sound. "iPhone." pops in.
+2. 2-4s: the sage band slides in under it. The Apple Watch settles on top of the sage PETL. "Watch." pops in.
+3. 4-6s: the pink band slides in. The AirPods case settles on top of the pink PETL. "Airpods." pops in.
+4. 6-9s: all three bands hold together. "Everything you rely on, powered by one pocket-sized charger." types on, then the "UP TO 30% OFF" pill pops.
+5. Loop back to the start.
+
+**Versions:**
+- Version A (evergreen): exactly as above.
+- Version B (Black Friday): same motion, the pill reads "[BF OFFER]", and a moving banner-pack style ticker runs across the top the whole time: black bar, bold yellow "BLACK FRIDAY · [BF OFFER] · GOPETL.COM", red on "BLACK FRIDAY." Rakesh signs off the wording.
+
+**Other editor notes:**
+- Keep the static's exact colors, fonts, product shots and words. Don't redesign.
+- One device per beat, never all three charging in the same moment.
+- Export 1080x1080 (the size that won) and 1080x1920 for Reels and Stories (extend the bands to fill).
+- Sound: a crisp magnetic snap on each beat, light upbeat music under it.
+- Ad copy stays the standard copy the static ran with ("One charger for your iPhone, Apple Watch, and AirPods. Say goodbye to bulky cables & oversized battery packs." / "One Charger. Three Devices.").
