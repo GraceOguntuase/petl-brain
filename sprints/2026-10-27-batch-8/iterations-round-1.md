@@ -140,10 +140,10 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 
 **Price fix (the only line change):** row 11, "One is 5% off. Two is 20% - that's $42.40 each." becomes "Two is 20% off, that's $51.96 each." (one unit isn't discounted now; two at 20% off $64.95 is $51.96). Update the ladder text card to match.
 
-**Hooks:** the original 4 hooks, all whispered, one edit each. Hook visuals as the original.
+**Hook:** V1's hook only, the one that won (Grace, 2026-10-30): "To the 1,000 people who tried to buy a Black PETL last month - we're sorry." (matched to V1 by its thumbnail caption "To the 1000 people"; Grace to confirm). Hook visual as the original.
 
 **Other editor notes:**
-- Eight edits: the 4 hooks in the female whisper and the same 4 in the male whisper, same body.
+- Two edits: V1 in a female whisper and V1 in a male whisper.
 - Keep every visual, cut point and text card from V1. Re-time captions to the new VO.
 - Fix caption spelling to American (aluminum, colors, guarantee).
 - Keep the music low under the whisper so it reads as a whisper.
