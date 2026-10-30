@@ -128,3 +128,22 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 - New B-roll for lines 13 to 17 from the PETL Drive and the NSY B-roll library.
 
 **Voice and claim check (new lines only):** passed after 2 rhythm fixes, then 2 more on the mechanism lines (a "here's what makes it different" opener and a stacked list). Claims on lines 13 to 17 match brand-lens and the product audit. Lint 0 before and after.
+
+## 5. PETL60 Apology, Whispered (Broll + AI VO)
+
+- **Concept:** The same PETL60 "We're Sorry, Black Back In Stock" ad, script and visuals, with the voiceover re-read as a whisper.
+- **Source ad:** NSY | PETL60 | V1, creative 1849565459748043, https://www.facebook.com/61571391511906/posts/122171148470713050/. Frame.io: https://f.io/icasSWkj. Script and editor notes as in the PETL60 Notion brief (concept 60, Batch 5).
+- **Why:** PETL60 V1 is the account's biggest ad: $137.2K at 1.69 over 30 days, 21% of account spend, and 1.89 last week, its best week at scale (Meta pull 2026-10-27). Its CTR is softening a little (4.30% to 4.06%) and its CPM is the account's highest, so a fresh delivery on the same proven script is the cheapest test. One variable: the whispered read (stated, Grace, from the Dojo call). Sprint plan PETL147.
+- **Edit rule:** keep the script, cut, visuals, captions and music exactly as PETL60 V1 ran (Grace, 2026-10-30). Only the VO changes, plus the one old price.
+
+**VO direction:** the same script, whispered. Soft and close to the mic, like she's telling you a secret, warm not creepy. Slightly apologetic at the top, quietly pleased on the reveal. Same pacing as the original. Spell PETL "petal" in the TTS input.
+
+**Price fix (the only line change):** row 11, "One is 5% off. Two is 20% - that's $42.40 each." becomes "Two is 20% off, that's $51.96 each." (one unit isn't discounted now; two at 20% off $64.95 is $51.96). Update the ladder text card to match.
+
+**Hooks:** the original 4 hooks, all whispered, one edit each. Hook visuals as the original.
+
+**Other editor notes:**
+- Four edits, one per hook, same body.
+- Keep every visual, cut point and text card from V1. Re-time captions to the new VO.
+- Fix caption spelling to American (aluminum, colors, guarantee).
+- Keep the music low under the whisper so it reads as a whisper.
