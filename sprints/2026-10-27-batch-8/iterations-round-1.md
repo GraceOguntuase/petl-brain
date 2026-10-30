@@ -151,6 +151,7 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 ## 6. CLD_1001 Three-Band Static as a Motion Video + BF Banner (editor-only)
 
 - **Concept:** Turn the CLD_1001 three-band static into a short motion video, one device per beat, keeping its exact layout, colors and words, plus a Black Friday banner version.
+- **Editor:** Fedor (Grace, 2026-10-30). **Motion style example:** https://app.gethookd.ai/share/ad/89258888?signature=d865f705bc4b87321ad50ea039bf374f24804e22c7cd3fd0e5d4788acbada97d
 - **Source ad:** INTL | CLD_1001 | V2 | Three-device ecosystem, ad 120250304411110194, creative 1788651002086226, image hash 506326177ed3d770f053b5c7a12e6e17 (file INTL_CLD_1001_2_1080.png, 1080x1080).
 - **What the static shows:** three full-width bands stacked top to bottom. Burnt orange: an orange iPhone with an orange PETL on its back, big white "iPhone." Sage green: an Apple Watch with a sage band on a sage PETL, "Watch." Dusty pink: a white AirPods case on a pink PETL, "Airpods.", then "Everything you rely on, powered by one pocket-sized charger." and a white pill "UP TO 30% OFF".
 - **Why:** CLD_1001 V2 is the account's volume and cheap-reach winner: $53.6K at 1.79 ROAS and 739 purchases, almost all after Oct 20, at about a $47 CPM against $117 for the account, and it pulled a younger, more male buyer (35 to 54, about 45% men) (Meta pull and October monthly report). Motion gets it into Reels and Stories placements and gives the snap a sound. One variable: static to motion, same design (sprint plan PETL146).
