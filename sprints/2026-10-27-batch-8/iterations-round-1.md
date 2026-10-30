@@ -91,3 +91,37 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 **Grounding Review:** bounced once (the "30% off when you get more than one" ladder line, a Black Friday CTA that spoke the standing ladder, first-person testimonial lines on AI VO, and "top gifting ad"), all fixed.
 
 **Voice Review:** 4 rewrites (a tacked-on Cyber Monday line and three overlays that repeated the hook). Lint 0 before and after.
+
+## 4. PETL125 60 Years of Phones: cut the history, PETL earlier, more product (Broll + AI VO)
+
+- **Concept:** The same PETL125 ad, script and visuals, with parts of the phone-history section cut so PETL arrives much sooner, and more time spent on the product.
+- **Source ad:** NSY | PETL125 | 60 Years of Phones, ad 120250430855620194. Brief (script, visuals and editor notes to reuse): https://app.notion.com/p/3f4df9f700e5811bb488f5b995e32681
+- **Why:** PETL125 spent $31.6K at 1.32 ROAS and $99.71 per purchase over 30 days, under the 2.2 goal. The story holds attention (24.4% thruplays per impression, the best of the account's top 35 spenders), but the average watch is about 30 seconds and PETL only shows up around 1:40, so most viewers leave before the product (Meta pull 2026-10-27; Grace). One change: pacing. Same script and visuals, no new hooks (Grace, 2026-10-30). Judge it on cost per purchase against $99.71.
+- **Edit rule:** keep every remaining line and its visual exactly as in the PETL125 brief. Only cut the lines marked below, and add the new product lines marked NEW. Same AI voice; spell PETL "petal" in the TTS input.
+
+**Script (original lines kept unless marked):**
+
+1. "Here are 60 years of phones and the one problem none of them ever fixed."
+2. "1960s, the rotary phone. It hung on the kitchen wall [CUT: and you dialed every number one slow turn at a time]. The catch? You could only go as far as the cord would stretch and the whole house could hear your call."
+3. [CUT: the 1980s cordless phone lines]
+4. "Then came the first real mobile phone, the brick phone. It cost nearly four thousand dollars, gave you about 30 minutes of talk time and took 10 hours to recharge."
+5. [CUT: the 1990s car phone in a bag lines]
+6. [CUT: the 2000s Nokia and flip phone lines]
+7. "Then the iPhone changed everything except it sealed the battery inside and suddenly you were charging every single day."
+8. "2010s, [CUT: the battery case with a hump on the back that doubled the size of your phone or] the power bank, a heavy brick in your bag with a cable dangling off your phone."
+9. "2020s, MagSafe battery packs. Finally no cable but Apple's own pack cost $99, held just 1460 milliamp hours and was discontinued in 2023."
+10. "And Anker, Belkin, Mophie, they only charge your iPhone. Your Apple Watch and AirPods still need their own cables."
+11. "60 years later, phones can video call the other side of the world and when the battery dies you're still doing what your parents did in 1965, standing next to a wall."
+12. "That's where PETL comes in. The world's first circular MagSafe compatible power bank. It snaps onto the back of your iPhone and charges while you use it. No cords, no hump, no brick. Around 10 extra hours and just 14 millimeters thin."
+13. NEW: "And it shows up right in your iPhone's battery widget, so you always know how much is left." *(B-roll: battery widget screen)*
+14. "And it charges your Apple Watch and AirPods too." NEW: "Just set your Apple Watch or your AirPods case on top." "One charger for all three." *(B-roll: Watch on top, then AirPods, one at a time)*
+15. NEW: "It's made from aluminum and glass, and it's almost the size of a golf ball, so it fits right in your coin pocket. And at night, it stands your iPhone up on your nightstand." *(B-roll: macro on the aluminum edge, coin pocket, nightstand stand)*
+16. NEW: "There's the original PETL for a top-up that gets you through the day, and the PETL 2 Plus for nearly a full charge on an iPhone 16 Pro." *(B-roll: both side by side, same footing)*
+17. "Over 80,000 people have already made the switch. 4.8 stars from over 1,100 reviews."
+18. "This is the charger every phone of the last 60 years was waiting for. Right now, PETL is up to 30% off with a 30-day full refund if you don't love it. Tap below to grab yours."
+
+**Other editor notes:**
+- One edit, no hook variations. The opening line (1) is the hook.
+- PETL now lands at about 1:05 instead of about 1:40. If you want it sooner, cut line 8 too (about 0:58).
+- Everything else as in the PETL125 brief: era looks, music, captions, the wall callback in line 11.
+- New B-roll for lines 13 to 16 from the PETL Drive and the NSY B-roll library.
