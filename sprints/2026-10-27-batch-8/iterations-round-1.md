@@ -136,14 +136,14 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 - **Why:** PETL60 V1 is the account's biggest ad: $137.2K at 1.69 over 30 days, 21% of account spend, and 1.89 last week, its best week at scale (Meta pull 2026-10-27). Its CTR is softening a little (4.30% to 4.06%) and its CPM is the account's highest, so a fresh delivery on the same proven script is the cheapest test. One variable: the whispered read (stated, Grace, from the Dojo call). Sprint plan PETL147.
 - **Edit rule:** keep the script, cut, visuals, captions and music exactly as PETL60 V1 ran (Grace, 2026-10-30). Only the VO changes, plus the one old price.
 
-**VO direction:** the same script, whispered. Soft and close to the mic, like she's telling you a secret, warm not creepy. Slightly apologetic at the top, quietly pleased on the reveal. Same pacing as the original. Spell PETL "petal" in the TTS input.
+**VO direction:** the same script, whispered. Two voices: a female whisper and a male whisper (Grace, 2026-10-30; the original was a woman), so the test also learns whether a male voice opens new delivery. Soft and close to the mic, like she's telling you a secret, warm not creepy. Slightly apologetic at the top, quietly pleased on the reveal. Same pacing as the original. Spell PETL "petal" in the TTS input.
 
 **Price fix (the only line change):** row 11, "One is 5% off. Two is 20% - that's $42.40 each." becomes "Two is 20% off, that's $51.96 each." (one unit isn't discounted now; two at 20% off $64.95 is $51.96). Update the ladder text card to match.
 
 **Hooks:** the original 4 hooks, all whispered, one edit each. Hook visuals as the original.
 
 **Other editor notes:**
-- Four edits, one per hook, same body.
+- Eight edits: the 4 hooks in the female whisper and the same 4 in the male whisper, same body.
 - Keep every visual, cut point and text card from V1. Re-time captions to the new VO.
 - Fix caption spelling to American (aluminum, colors, guarantee).
 - Keep the music low under the whisper so it reads as a whisper.
