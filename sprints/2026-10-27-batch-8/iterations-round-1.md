@@ -173,3 +173,12 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 - Export 1080x1080 (the size that won) and 1080x1920 for Reels and Stories (extend the bands to fill).
 - Sound: a crisp magnetic snap on each beat, light upbeat music under it.
 - Ad copy stays the standard copy the static ran with ("One charger for your iPhone, Apple Watch, and AirPods. Say goodbye to bulky cables & oversized battery packs." / "One Charger. Three Devices.").
+
+## Notion links (pushed 2026-10-30, Grace-approved)
+
+- PETL135 BF Banner Pack: concept https://app.notion.com/p/409df9f700e5815eb305d892e5414cc1, brief https://app.notion.com/p/409df9f700e5819aaf57fcced8abccf2
+- PETL136 Hook Stack: concept https://app.notion.com/p/409df9f700e581e78182f47385d21727, brief https://app.notion.com/p/409df9f700e58181a2f1e51bde6956a3
+- PETL137 PETL29 Holiday Hooks: concept https://app.notion.com/p/409df9f700e581568107c3191398d099, brief https://app.notion.com/p/409df9f700e58144bb30caaeb7555243
+- PETL138 PETL125 Re-cut: concept https://app.notion.com/p/409df9f700e58195b8afe09685a0cf44, brief https://app.notion.com/p/409df9f700e581f2925df2b53683081d
+- PETL139 PETL60 Whispered: concept https://app.notion.com/p/409df9f700e58139b7c1c4c4f7268559, brief https://app.notion.com/p/409df9f700e581909cedfa51aed170f4
+- Held: section 6 (CLD_1001 motion) until the lead editor replies. Not yet written: "We're sorry if you bought before Black Friday."
