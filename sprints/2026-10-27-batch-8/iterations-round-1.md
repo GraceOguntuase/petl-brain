@@ -32,3 +32,26 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 **Other editor notes:**
 - Five banner versions, one per ad. Name them "NSY | PETL[code] | BF BANNER | [source ad]".
 - Keep everything else exactly as it ran: cut, hook, music, captions, VO.
+
+## 2. Hook Stack: PETL48's winning hook on the Top 3 ranking body (editor-only)
+
+- **Concept:** Keep the Sean_911 H4 "Top 3 Chargers for Grandparents" body exactly as it ran, and test three new openings in front of it: PETL48 V2's search-style "best MagSafe power bank" hook, PETL65's "Nobody tells you this" hook, and a Black Friday gifting hook.
+- **Target audience:** Apple users 55+ with an iPhone, Apple Watch and AirPods, plus people buying for them (55-70).
+- **Body to use:** INTL Sean_911 H4, the TOP PERFORMERS copy (ad 120250326901480194, creative 2551127825408338), https://www.facebook.com/61571391511906/posts/122171833862713050/. The original NSY PETL65 is the reference for the ranking structure: https://www.facebook.com/61571391511906/posts/122169372470713050/
+- **Why:** Sean_911 H4 is the account's biggest ad family, $126.5K at 1.58 over 30 days, but the family is tiring (October monthly report). The body pays off a ranking promise, so the cheapest test is a new hook on it, one variable only. PETL48 V2's "What's the best MagSafe power bank you can buy in 2026?" carried $267.2K at 1.70 (Jun to Aug) and is a ranking promise too, so it fits the body. Hook stacking, sprint plan PETL145.
+- **The seam:** PETL48's hook was Jared (male) and the body is an older woman, so the three hooks run as AI voiceover over B-roll, in a warm female voice close to the body's creator. If Rakesh can get the in-house creator to re-read the three hooks on camera, use that instead.
+- **Edit rule:** remove the body's original hook and start at "Number three is..." Everything after that stays exactly as it ran, apart from any old price, per the banner pack rule ($49 or $50 becomes $64.95, "under $50" becomes "under $70").
+
+| Module | AI VO | Visual | Editor notes |
+|---|---|---|---|
+| 01 Hook 1 (PETL48 V2) | "What's the best MagSafe power bank you can buy in 2026? Here are the top three, ranked from worst to best. And number one is genius." | Google-search style screen, "Best MagSafe Power Bank 2026," then a fast flip through dozens of power banks, then cut to an older woman at her nightstand, cords everywhere | Overlay: "Best MagSafe power bank of 2026?" |
+| 02 Hook 2 (PETL65) | "Nobody tells you this when you get an Apple Watch. Here are the three best ways to charge your iPhone, your AirPods and your Apple Watch. And number one is genius." | Older woman taking off her Apple Watch, looking at a dead screen, then her nightstand tangle of three chargers | Overlay: "3 ways to charge all your Apple devices" |
+| 03 Hook 3 (Black Friday gifting) | "If you're buying a Black Friday gift for someone with an iPhone, an Apple Watch and AirPods, here are the three best ways to charge all of them. And number one makes the perfect gift." | Hands wrapping a small gift box, then a grandparent's nightstand with three chargers | Black Friday version; the wording needs Rakesh's sign-off. Overlay: "The Black Friday gift for Apple lovers" |
+| 04 Body | [The Sean_911 H4 body from "Number three is..." to the end, as it ran] | As it ran | Price rule only. Ranking cards stay |
+
+**Other editor notes:**
+- Three edits, one per hook, same body.
+- Cut each hook to land right on the body's "Number three is..." so the ranking promise pays off straight away.
+- Warm, chill lofi under the hooks, matching the body's music. Big burned-in captions for 55+.
+- Real faces in every hook, never a device-only shot.
+- Hook 3 gets the banner-pack style banner and the [BF OFFER] end card; Hooks 1 and 2 stay evergreen.
