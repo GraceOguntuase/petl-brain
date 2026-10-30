@@ -17,7 +17,7 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 - **Format:** Editor-only. No creator.
 - **Offer:** [BF OFFER] stays blank until Grace has it; the brief gets updated then. The "Black Friday" and "Early Black Friday" wording needs Rakesh's sign-off.
 
-**Banner spec:** a slim moving ticker across the top third, scrolling right to left the whole video. White text on a solid brand-color bar. Never over faces, the product snap or the captions; drop it to the bottom third if the top is busy. End card: "[BF OFFER] | 30 days risk-free | 1-year warranty | gopetl.com".
+**Banner spec:** a slim moving ticker across the top third, scrolling right to left the whole video. Black Friday colors (Grace, 2026-10-30): black bar, bold yellow text, with red on the urgency words ("ENDS IN 24 HOURS," "EARLY") so it reads like a lightning deal. Never over faces, the product snap or the captions; drop it to the bottom third if the top is busy. End card: "[BF OFFER] | 30 days risk-free | 1-year warranty | gopetl.com".
 
 **Price rule (the only edit inside the ads):** current prices are PETL $64.95 and PETL 2 Plus $89.95. Any on-screen price that says $49 or $50 becomes $64.95, and "under $50" becomes "under $70." Where a price is spoken, update the AI VO line if it's AI; if a creator says it, cut the spoken number and put the current price on screen. Re-check the live product page before export.
 
