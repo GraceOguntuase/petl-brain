@@ -150,3 +150,7 @@ Replaces the creator columns above and the earlier v2 split. 15 UGC concepts: th
 - Grandma's First Snap comes off Hannah. Her second concept is "What's in my purse" (Grace, 2026-10-29): she walks through her bag and PETL is the one thing she never leaves without. Evergreen TOF, talking head.
 - Batch mix confirmed: 14 UGC, 6 AI voiceover, 1 animation. The Ideas Library holds 14 UGC, and Grace is fine with 14 instead of 15.
 - 2026-10-29: PETL131 Apple Store Test and PETL132 Tech Store Aisle (Zack), PETL133 Street Interview and PETL134 Skit (Brian) approved and pushed to Notion. Links in briefs-ugc-round-2.md. Brian keeps the skit, aimed younger (18-40).
+
+## Black Friday offer confirmed (Grace, 2026-10-30)
+
+The Black Friday offer is the standing "up to 30% off" bundle-and-save ladder (2+ 20%, 3+ 25%, 5+ 30%). Rakesh wouldn't move to a bigger deal. Every [BF OFFER] placeholder in the briefs now reads "up to 30% off." Concepts above marked "only if [BF OFFER] beats the standing ladder" (PETL129 yapper, PETL130 still on sale, PETL141 and PETL148 "sorry if you bought before," PETL142 clapback) no longer have an honest premise as written.

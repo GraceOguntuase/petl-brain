@@ -45,7 +45,7 @@ Grace, 2026-10-27: keep the original's ~2-minute length and depth on how phones 
 | 1:36–1:43 | Real life | "It just lives in your purse or your coat pocket. So it's there at the airport, it's there at your grandkid's game, it's there in the car." | Creator B-roll: purse, airport gate (never in flight), sideline, car |
 | 1:43–1:53 | Two sizes | "Get the original PETL for a top-up that gets you through the day, or the PETL 2 Plus for nearly a full charge on an iPhone 16 Pro." | Both on screen side by side, same footing, so the original never looks weak |
 | 1:53–1:56 | Proof | "4.8 stars from over 1,400 reviews." | Star super |
-| 1:56–2:03 | Payoff + CTA | "Sixty years of phones, and finally the charger comes with you. Go ahead and try it risk-free for 30 days." | End card with the current offer; BF version swaps in [BF OFFER] |
+| 1:56–2:03 | Payoff + CTA | "Sixty years of phones, and finally the charger comes with you. Go ahead and try it risk-free for 30 days." | End card with the current offer; BF version adds the Black Friday banner (offer: up to 30% off) |
 
 Control cut: the same 2 minutes with the us vs them module (1:16–1:36) swapped for more real-life B-roll, so we learn whether the comparison or the extra PETL time moved cost per purchase.
 

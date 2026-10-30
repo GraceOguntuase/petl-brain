@@ -15,19 +15,19 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 - **Concept:** Duplicate the winning hook version of five proven ads and add a moving Black Friday banner on top, a different banner on each. Nothing else in the ads changes except old prices (Grace, 2026-10-30).
 - **Why:** Grace, 2026-10-27 and 2026-10-30: winning hook only, banner on top, prices updated, everything else as it ran. These are the account's proven bodies (Meta pulls 2026-10-27), so the banner is the one new variable for the sale. Varied banners, including a 24-hour urgency banner and an early Black Friday one, because that urgency has worked on this account before (Grace). PETL29 is dropped (its winning hook is Father's Day, and PETL144 re-runs the body with holiday hooks).
 - **Format:** Editor-only. No creator.
-- **Offer:** [BF OFFER] stays blank until Grace has it; the brief gets updated then. The "Black Friday" and "Early Black Friday" wording needs Rakesh's sign-off.
+- **Offer:** up to 30% off, the standing bundle-and-save ladder (confirmed 2026-10-30). The "Black Friday" and "Early Black Friday" wording needs Rakesh's sign-off.
 
-**Banner spec:** a slim moving ticker across the top third, scrolling right to left the whole video. Black Friday colors (Grace, 2026-10-30): black bar, bold yellow text, with red on the urgency words ("ENDS IN 24 HOURS," "EARLY") so it reads like a lightning deal. Never over faces, the product snap or the captions; drop it to the bottom third if the top is busy. End card: "[BF OFFER] | 30 days risk-free | 1-year warranty | gopetl.com".
+**Banner spec:** a slim moving ticker across the top third, scrolling right to left the whole video. Black Friday colors (Grace, 2026-10-30): black bar, bold yellow text, with red on the urgency words ("ENDS IN 24 HOURS," "EARLY") so it reads like a lightning deal. Never over faces, the product snap or the captions; drop it to the bottom third if the top is busy. End card: "Up to 30% off | 30 days risk-free | 1-year warranty | gopetl.com".
 
 **Price rule (the only edit inside the ads):** current prices are PETL $64.95 and PETL 2 Plus $89.95. Any on-screen price that says $49 or $50 becomes $64.95, and "under $50" becomes "under $70." Where a price is spoken, update the AI VO line if it's AI; if a creator says it, cut the spoken number and put the current price on screen. Re-check the live product page before export.
 
 | Ad | Version | Proof (Meta, 2026-10-27) | Banner | Price changes |
 |---|---|---|---|---|
-| PETL60 "We're Sorry, Black Back In Stock" | V1, "To the 1,000 people..." Creative 1849565459748043. Ad: https://www.facebook.com/61571391511906/posts/122171148470713050/ | $137.2K at 1.69 over 30 days; 1.89 last week, its best week at scale | "BLACK FRIDAY SALE · [BF OFFER] · ENDS IN 24 HOURS" | "One is 5% off. Two is 20% - that's $42.40 each." Change $42.40 to $51.96 (two at 20% off). One unit has no discount now, so drop "One is 5% off." |
-| Sean_911 H4 "Top 3 Chargers for Grandparents" | H4, TOP PERFORMERS copy. Ads from Grace: INTL Sean 911 https://www.facebook.com/61571391511906/posts/122171833862713050/ and Top 3 Grandparents https://www.facebook.com/61571391511906/posts/122169372470713050/ | $126.5K at 1.58 over 30 days | "EARLY BLACK FRIDAY SALE · [BF OFFER] · ENDS IN 24 HOURS" | Watch for any dollar price and update it. "Buy two and you get 20% off" is still true |
-| PETL48 "Top 5 MagSafe Power Banks Ranked" (Jared) | V2, ad 120247616071890194 (confirm it's Hook 2 in the preview) | $267.2K at 1.70, Jun to Aug | "BLACK FRIDAY · [BF OFFER] ON EVERY PETL" | PETL's "$49" becomes $64.95. The comparison lines stay as they ran (Grace, 2026-10-30) |
-| PETL61 "Meet PETL 2 Plus" (Jared) | V4, "I regret buying my petl..." Creative 1029112713058520. Ad: https://www.facebook.com/61571391511906/posts/122169561824713050/ | $85.5K lifetime at 1.89; 2.18 last week | "BLACK FRIDAY DEAL · [BF OFFER] · THE BIGGER PETL" | None. "Grab two and you get 20% off. Five gets you 30." is still the live ladder |
-| Clair "All Charger" | The video, creative 1456415426034073 (39.7s). Ad: https://www.facebook.com/61571391511906/posts/122171832188713050/ | $67.8K lifetime at 2.11, $29.32 CPA; THREE DEVICES copy 2.35 and rising | "BLACK FRIDAY · [BF OFFER] · ONE CHARGER, THREE DEVICES" | None in the video. Flag to the media buyer: the PETL15 15% code in the ad copy is dead |
+| PETL60 "We're Sorry, Black Back In Stock" | V1, "To the 1,000 people..." Creative 1849565459748043. Ad: https://www.facebook.com/61571391511906/posts/122171148470713050/ | $137.2K at 1.69 over 30 days; 1.89 last week, its best week at scale | "BLACK FRIDAY SALE · UP TO 30% OFF · ENDS IN 24 HOURS" | "One is 5% off. Two is 20% - that's $42.40 each." Change $42.40 to $51.96 (two at 20% off). One unit has no discount now, so drop "One is 5% off." |
+| Sean_911 H4 "Top 3 Chargers for Grandparents" | H4, TOP PERFORMERS copy. Ads from Grace: INTL Sean 911 https://www.facebook.com/61571391511906/posts/122171833862713050/ and Top 3 Grandparents https://www.facebook.com/61571391511906/posts/122169372470713050/ | $126.5K at 1.58 over 30 days | "EARLY BLACK FRIDAY SALE · UP TO 30% OFF · ENDS IN 24 HOURS" | Watch for any dollar price and update it. "Buy two and you get 20% off" is still true |
+| PETL48 "Top 5 MagSafe Power Banks Ranked" (Jared) | V2, ad 120247616071890194 (confirm it's Hook 2 in the preview) | $267.2K at 1.70, Jun to Aug | "BLACK FRIDAY · UP TO 30% OFF EVERY PETL" | PETL's "$49" becomes $64.95. The comparison lines stay as they ran (Grace, 2026-10-30) |
+| PETL61 "Meet PETL 2 Plus" (Jared) | V4, "I regret buying my petl..." Creative 1029112713058520. Ad: https://www.facebook.com/61571391511906/posts/122169561824713050/ | $85.5K lifetime at 1.89; 2.18 last week | "BLACK FRIDAY DEAL · UP TO 30% OFF · THE BIGGER PETL" | None. "Grab two and you get 20% off. Five gets you 30." is still the live ladder |
+| Clair "All Charger" | The video, creative 1456415426034073 (39.7s). Ad: https://www.facebook.com/61571391511906/posts/122171832188713050/ | $67.8K lifetime at 2.11, $29.32 CPA; THREE DEVICES copy 2.35 and rising | "BLACK FRIDAY · UP TO 30% OFF · ONE CHARGER, THREE DEVICES" | None in the video. Flag to the media buyer: the PETL15 15% code in the ad copy is dead |
 
 **Other editor notes:**
 - Five banner versions, one per ad. Name them "NSY | PETL[code] | BF BANNER | [source ad]".
@@ -56,7 +56,7 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 - Cut each hook to land right on the body's "Number three is..." so the ranking promise pays off straight away.
 - Warm, chill lofi under the hooks, matching the body's music. Big burned-in captions for 55+.
 - Hook visuals are the editor's choice (Grace, 2026-10-30). Real faces in every hook, never a device-only shot.
-- Hook 3 gets the banner-pack style banner and the [BF OFFER] end card; Hooks 1, 2, 4 and 5 stay evergreen.
+- Hook 3 gets the banner-pack style banner and the Black Friday end card; Hooks 1, 2, 4 and 5 stay evergreen.
 
 **Grounding Review:** bounced once ("biggest ad family" was wrong, PETL60 is bigger; "MagSafe power bank" as a product noun; a Google-styled search screen; unconfirmed links and cut point), all fixed or labeled.
 
@@ -78,7 +78,7 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 | 03 Hook 3 (holiday gifting) | "The holiday gift for every man in your life. Under seventy dollars, and he'll actually use it every day." | Editor's choice | AI VO. Same rhythm as the winning H4. Overlay: "Best gift for your husband 2026" |
 | 04 Hook 4 (evergreen) | "The best gift you can get your husband this year. And it's under seventy dollars." | Editor's choice | AI VO. Overlay: "Best gift for a hard-to-shop husband" |
 | 05 Body | [PETL29 modules 05 to 13 as they ran, from "My husband is the hardest person in the world to shop for" to "I ordered their lavender color for myself."] | As it ran | No changes |
-| 06 CTA | Cut Aimee's "It's $49, but you can get up to 20% off & free shipping when you order two or more." Keep her "Trust me, it's the gift he'll love." Then AI VO tag. Holiday and evergreen edits: "It's under seventy dollars, and it's twenty percent off when you get two, up to thirty percent off when you get more." Black Friday and Cyber Monday edits: "It's under seventy dollars, and the Black Friday deal is on now." (Rakesh signs off the wording) | Aimee's last shot, then PETL hero B-roll under the AI VO tag | End card: "[BF OFFER] | 30 days risk-free | 1-year warranty | gopetl.com" on the Black Friday and Cyber Monday edits; "Up to 30% off | 30 days risk-free | 1-year warranty | gopetl.com" on the holiday and evergreen edits |
+| 06 CTA | Cut Aimee's "It's $49, but you can get up to 20% off & free shipping when you order two or more." Keep her "Trust me, it's the gift he'll love." Then AI VO tag. Holiday and evergreen edits: "It's under seventy dollars, and it's twenty percent off when you get two, up to thirty percent off when you get more." Black Friday and Cyber Monday edits: "It's under seventy dollars, and the Black Friday deal is on now." (Rakesh signs off the wording) | Aimee's last shot, then PETL hero B-roll under the AI VO tag | End card: "Up to 30% off | 30 days risk-free | 1-year warranty | gopetl.com" on the Black Friday and Cyber Monday edits; "Up to 30% off | 30 days risk-free | 1-year warranty | gopetl.com" on the holiday and evergreen edits |
 
 **Creator notes:** none, editor-only.
 
@@ -164,7 +164,7 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 
 **Versions:**
 - Version A (evergreen): exactly as above.
-- Version B (Black Friday): same motion, the pill reads "[BF OFFER]", and a moving banner-pack style ticker runs across the top the whole time: black bar, bold yellow "BLACK FRIDAY · [BF OFFER] · GOPETL.COM", red on "BLACK FRIDAY." Rakesh signs off the wording.
+- Version B (Black Friday): same motion, the pill stays "UP TO 30% OFF", and a moving banner-pack style ticker runs across the top the whole time: black bar, bold yellow "BLACK FRIDAY · UP TO 30% OFF · GOPETL.COM", red on "BLACK FRIDAY." Rakesh signs off the wording.
 
 **Other editor notes:**
 - Keep the static's exact colors, fonts, product shots and words. Don't redesign.
