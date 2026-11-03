@@ -49,14 +49,15 @@ Order: BF Banner Pack, Hook Stack (PETL48 hook on the Top 3 body), PETL29 Father
 | 03 Hook 3 (Black Friday gifting) | "If you're buying a Black Friday gift for someone with an iPhone, an Apple Watch and AirPods, here are the three best ways to charge all of them. And number one is under seventy dollars." | Editor's choice | Black Friday version; the wording needs Rakesh's sign-off. Overlay: "Gift for the grandparent with an iPhone" |
 | 04 Hook 4 (gifting, winner formula) | "If you need to buy a gift for your grandparents or your parents, here are the three best ways to charge their iPhone, their Apple Watch and their AirPods. And number one is the best gift you can get them for under seventy dollars." | Editor's choice | Overlay: "Best gift for grandparents in 2026" |
 | 05 Hook 5 (gifting, grandma's side) | "Every holiday, my kids ask me what I want, and I never know what to say. Well, this year I do. Here are the three best ways to charge your iPhone, your Apple Watch and your AirPods. And number one is what I'm telling them to get me." | Editor's choice | Overlay: "What to get Grandma this year" |
-| 06 Body | [The Sean_911 H4 body from "Number three is..." to the end, as it ran] | As it ran | Price rule only. Ranking cards stay |
+| 06 Hook 6 (early Black Friday) | "If you're seeing this, the early Black Friday sale is on. Here are the three best ways to charge your iPhone, your Apple Watch and your AirPods. And number one is up to 30% off right now." | Editor's choice | Added 2026-11-03 (Grace). Gets the Black Friday banner and end card; the wording needs Rakesh's sign-off. Overlay: "Early Black Friday sale is on" |
+| 07 Body | [The Sean_911 H4 body from "Number three is..." to the end, as it ran] | As it ran | Price rule only. Ranking cards stay |
 
 **Other editor notes:**
-- Five edits, one per hook, same body.
+- Six edits, one per hook, same body.
 - Cut each hook to land right on the body's "Number three is..." so the ranking promise pays off straight away.
 - Warm, chill lofi under the hooks, matching the body's music. Big burned-in captions for 55+.
 - Hook visuals are the editor's choice (Grace, 2026-10-30). Real faces in every hook, never a device-only shot.
-- Hook 3 gets the banner-pack style banner and the Black Friday end card; Hooks 1, 2, 4 and 5 stay evergreen.
+- Hook 3 gets the banner-pack style banner and the Black Friday end card; Hook 6 gets it too. Hooks 1, 2, 4 and 5 stay evergreen.
 
 **Grounding Review:** bounced once ("biggest ad family" was wrong, PETL60 is bigger; "MagSafe power bank" as a product noun; a Google-styled search screen; unconfirmed links and cut point), all fixed or labeled.
 
