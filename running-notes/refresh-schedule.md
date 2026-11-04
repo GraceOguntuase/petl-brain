@@ -28,6 +28,9 @@ All built on 2026-10-27, method pinned at parker-brain v22. Due dates come from 
 ### Account audits
 - `audits/2026-10/2026-10-monthly-performance-report.md` — last run 2026-10-27 — **due 2026-11-26** (+30d; the November report)
 
+### Brand one-pager
+- `sub-context-docs/brand-profile-narrative.md` — last run 2026-10-27 — **due 2026-11-26** (set to match the November report; re-run sooner once two or more docs above are re-run, or when the Nov 4 colors, the BF offer or Rakesh's claim answers land). *(Line corrected 2026-11-04: the doc was built 2026-10-27 but was still listed under "not built yet"; its own frontmatter wins.)*
+
 ### Production
 - `production/creator-filming-guide.md` — last updated 2026-10-27 — no `refresh_by` in frontmatter. Update when the writing rules, specs or claims move, and check it against `brand-lens.md` each round.
 - `production/broll-tracker.md` — last updated 2026-10-27 — no `refresh_by` in frontmatter. Its own note says update it every round; next due with the Black Friday round.
@@ -53,7 +56,6 @@ The lean build skipped these. Each has its generating prompt ready in `parker-sy
 - `sub-context-docs/ad-account-evaluation.md` — prompt `brand-profile/ad-account-evaluation.md`
 - `sub-context-docs/marketing-calendar-and-campaigns.md` — prompt `brand-profile/marketing-calendar-and-campaigns.md` (urgent value with BF, CM and the Nov 4 launch)
 - `sub-context-docs/visual-vocabulary.md` — prompt `brand-profile/visual-vocabulary.md`
-- `sub-context-docs/brand-profile-narrative.md` — prompt `brand-profile/brand-profile-narrative.md`
 - `open-loops/[date]-consolidated-roll-up.md` — prompt `open-loops/open-loops-roll-up.md` (the `/research-loops` routine runs it)
 - `strategy/product-priority.md`, `persona-strategy-input.md`, `messaging-strategy-input.md`, `creator-talent-strategy-input.md`, then `strategy/strategic-roadmap.md` — prompts in `strategic-roadmap/`
 - Competitor deep-dives for Apple, Anker, The Ridge and the commodity marketplace bank (the deep-audit set in `competitive-landscape.md`) — prompts in `competitor-profile/`: `competitor-snapshot`, `competitor-ad-account-evaluation`, `competitor-brand-identity-analysis`, `competitor-website-and-product-audit`, `competitor-reviews-and-customer-language`, `competitor-customer-and-persona-discovery`, `competitor-reputation-analysis`, `competitor-community-and-forums`, `competitor-organic-channels-audit`, `running-notes-on-competitor`, `working-thesis-synthesis`
