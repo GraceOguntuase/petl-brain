@@ -2,6 +2,21 @@
 
 Newest first.
 
+## 2026-11-10 — refresh-context (scheduled)
+
+**Checked:** `refresh_by` frontmatter on all 9 dated docs against today, plus the trigger list in `refresh-schedule.md`.
+
+**Due:** nothing overdue. Nothing due within two weeks (by 2026-11-24). Next up, both due 2026-11-26 (16 days out): `audits/2026-10/2026-10-monthly-performance-report.md` and `sub-context-docs/brand-profile-narrative.md`. Next week's run will catch them as due soon.
+
+**Re-ran:** nothing.
+
+**Trigger check:**
+- gopetl.com homepage loaded this time (HTTP 200). No mention of Burgundy, Glacier or Silver, and no Black Friday offer. Offer line reads "Bundle & save up to 30%" and "Free FedEx Premium Shipping $99+", which matches `brand-lens.md` (verified 2026-10-27). No contradiction to flag. *(verified · gopetl.com homepage, 2026-11-10)*
+- The Nov 4 PETL 2 Plus color launch still isn't visible on the homepage. Homepage only, not the PDP, so this is data-limited. If it went live, `website-and-product-audit.md` is due now.
+- Slack and Notion tools weren't available in this session, so no team-side trigger check.
+
+**Skipped and why:** nothing was due, so nothing to skip.
+
 ## 2026-11-04 — refresh-context (scheduled)
 
 **Checked:** every built doc's `refresh_by` against today, plus the trigger list in `refresh-schedule.md`.
